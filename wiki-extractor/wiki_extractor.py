@@ -1,13 +1,13 @@
 import json
 import requests
 from bs4 import BeautifulSoup
-import html5lib
+import lxml
 import fire
 
 def crawl(link):
   result =""
   article = requests.get(link).text
-  article = BeautifulSoup(article, 'html5lib')
+  article = BeautifulSoup(article, 'lxml')
   content = article.find('div', id="bodyContent").find('div', class_="mw-parser-output")
   for para in content.find_all('p')[0:2]:
     if para.has_attr('class') and "mw-empty-elt" in para.get('class'):
@@ -22,7 +22,7 @@ def scrape(keyword, links):
   search_link = f"https://en.wikipedia.org/w/index.php?title=Special:Search&limit={links}&offset=0&search={keyword}"
 
   html = requests.get(search_link).text
-  html = BeautifulSoup(html, 'html5lib')
+  html = BeautifulSoup(html, 'lxml')
 
   results = html.find("div", id="mw-search-top-table")
   results = results.find("div", class_="results-info").text
