@@ -1,0 +1,602 @@
+[
+  {
+    "title": "Machine learning",
+    "url": "https://en.wikipedia.org/wiki/Machine_learning",
+    "page_details": "99 KB (11,262 words) - 02:37, 4 February 2022",
+    "paragraph": "Machine learning (ML) is the study of computer algorithms that can improve automatically through experience and by the use of data.[1] It is seen as a part of artificial intelligence. Machine learning algorithms build a model based on sample data, known as training data, in order to make predictions or decisions without being explicitly programmed to do so.[2] Machine learning algorithms are used in a wide variety of applications, such as in medicine, email filtering, speech recognition, and computer vision, where it is difficult or unfeasible to develop conventional algorithms to perform the needed tasks.[3]\nA subset of machine learning is closely related to computational statistics, which focuses on making predictions using computers; but not all machine learning is statistical learning. The study of mathematical optimization delivers methods, theory and application domains to the field of machine learning. Data mining is a related field of study, focusing on exploratory data analysis through unsupervised learning.[5][6] Some implementations of machine learning use data and neural networks in a way that mimics the working of a biological brain.[7][8]  In its application across business problems, machine learning is also referred to as predictive analytics.\n"
+  },
+  {
+    "title": "Active learning (machine learning)",
+    "url": "https://en.wikipedia.org/wiki/Active_learning_(machine_learning)",
+    "page_details": "13 KB (1,561 words) - 16:01, 18 January 2022",
+    "paragraph": "Active learning is a special case of machine learning in which a learning algorithm can interactively query a user (or some other information source) to label new data points with the desired outputs.[1][2][3] In statistics literature, it is sometimes also called optimal experimental design.[4] The information source is also called teacher or oracle.\nThere are situations in which unlabeled data is abundant but manual labeling is expensive. In such a scenario, learning algorithms can actively query the user/teacher for labels. This type of iterative supervised learning is called active learning. Since the learner chooses the examples, the number of examples to learn a concept can often be much lower than the number required in normal supervised learning. With this approach, there is a risk that the algorithm is overwhelmed by uninformative examples.  Recent developments are dedicated to multi-label active learning,[5] hybrid active learning[6] and active learning in a single-pass (on-line) context,[7] combining concepts from the field of machine learning (e.g. conflict and ignorance) with adaptive, incremental learning policies in the field of online machine learning.\n"
+  },
+  {
+    "title": "Quantum machine learning",
+    "url": "https://en.wikipedia.org/wiki/Quantum_machine_learning",
+    "page_details": "61 KB (7,427 words) - 15:49, 30 January 2022",
+    "paragraph": "Quantum machine learning is the integration of quantum algorithms within machine learning programs.[1][2][3] The most common use of the term refers to machine learning algorithms for the analysis of classical data executed on a quantum computer, i.e. quantum-enhanced machine learning.[4][5][6] While machine learning algorithms are used to compute immense quantities of data, quantum machine learning utilizes qubits and quantum operations or specialized quantum systems to improve computational speed and data storage done by algorithms in a program.[7] This includes hybrid methods that involve both classical and quantum processing, where computationally difficult subroutines are outsourced to a quantum device.[8][9][10] These routines can be more complex in nature and executed faster on a quantum computer.[2] Furthermore, quantum algorithms can be used to analyze quantum states instead of classical data.[11][12] Beyond quantum computing, the term \"quantum machine learning\" is also associated with classical machine learning methods applied to data generated from quantum experiments (i.e. machine learning of quantum systems), such as learning the phase transitions of a quantum system[13][14] or creating new quantum experiments.[15][16][17] Quantum machine learning also extends to a branch of research that explores methodological and structural similarities between certain physical systems and learning systems, in particular neural networks. For example, some mathematical and numerical techniques from quantum physics are applicable to classical deep learning and vice versa.[18][19][20] Furthermore, researchers investigate more abstract notions of learning theory with respect to quantum information, sometimes referred to as \"quantum learning theory\".[21][22]\nQuantum-enhanced machine learning refers to quantum algorithms that solve tasks in machine learning, thereby improving and often expediting classical machine learning techniques. Such algorithms typically require one to encode the given classical data set into a quantum computer to make it accessible for quantum information processing. Subsequently, quantum information processing routines are applied and the result of the quantum computation is read out by measuring the quantum system. For example, the outcome of the measurement of a qubit reveals the result of a binary classification task. While many proposals of quantum machine learning algorithms are still purely theoretical and require a full-scale universal quantum computer to be tested, others have been implemented on small-scale or special purpose quantum devices.\n"
+  },
+  {
+    "title": "Boosting (machine learning)",
+    "url": "https://en.wikipedia.org/wiki/Boosting_(machine_learning)",
+    "page_details": "20 KB (2,228 words) - 23:35, 16 November 2021",
+    "paragraph": "In machine learning, boosting is an ensemble meta-algorithm for primarily reducing bias, and also variance[1] in supervised learning, and a family of machine learning algorithms that convert weak learners to strong ones.[2] Boosting is based on the question posed by Kearns and Valiant (1988, 1989):[3][4] \"Can a set of weak learners create a single strong learner?\" A weak learner is defined to be a classifier that is only slightly correlated with the true classification (it can label examples better than random guessing). In contrast, a strong learner is a classifier that is arbitrarily well-correlated with the true classification.\nRobert Schapire's affirmative answer in a 1990 paper[5] to the question of Kearns and Valiant has had significant ramifications in machine learning and statistics, most notably leading to the development of boosting.[6] \n"
+  },
+  {
+    "title": "Automated machine learning",
+    "url": "https://en.wikipedia.org/wiki/Automated_machine_learning",
+    "page_details": "5 KB (501 words) - 16:25, 29 January 2022",
+    "paragraph": "Automated machine learning (AutoML) is the process of automating the tasks of applying machine learning to real-world problems. AutoML potentially includes every stage from beginning with a raw dataset to building a machine learning model ready for deployment. AutoML was proposed as an artificial intelligence-based solution to the growing challenge of applying machine learning.[1][2] The high degree of automation in AutoML aims to allows non-experts to make use of machine learning models and techniques without requiring them to become experts in machine learning. Automating the process of applying machine learning end-to-end additionally offers the advantages of producing simpler solutions, faster creation of those solutions, and models that often outperform hand-designed models.\nIn a typical machine learning application, practitioners have a set of input data points to be used for training. The raw data may not be in a form that all algorithms can be applied to it. To make the data amenable for machine learning, an expert may have to apply appropriate data pre-processing, feature engineering, feature extraction, and feature selection methods. After these steps, practitioners must then perform algorithm selection and hyperparameter optimization to maximize the predictive performance of their model. Each of these steps may be challenging, resulting in significant hurdles to using machine learning.\n"
+  },
+  {
+    "title": "List of datasets for machine-learning research",
+    "url": "https://en.wikipedia.org/wiki/List_of_datasets_for_machine-learning_research",
+    "page_details": "258 KB (15,862 words) - 10:19, 3 February 2022",
+    "paragraph": "These datasets are applied for machine-learning research and have been cited in peer-reviewed academic journals. Datasets are an integral part of the field of machine learning. Major advances in this field can result from advances in learning algorithms (such as deep learning), computer hardware, and, less-intuitively, the availability of high-quality training datasets.[1] High-quality labeled training datasets for supervised and semi-supervised machine learning algorithms are usually difficult and expensive to produce because of the large amount of time needed to label the data. Although they do not need to be labeled, high-quality datasets for unsupervised learning can also be difficult and costly to produce.[2][3][4][5]\n"
+  },
+  {
+    "title": "Hyperparameter (machine learning)",
+    "url": "https://en.wikipedia.org/wiki/Hyperparameter_(machine_learning)",
+    "page_details": "12 KB (1,166 words) - 16:14, 10 January 2022",
+    "paragraph": "In machine learning, a hyperparameter is a parameter whose value is used to control the learning process. By contrast, the values of other parameters (typically node weights) are derived via training.\nHyperparameters can be classified as model hyperparameters, that cannot be inferred while fitting the machine to the training set because they refer to the model selection task, or algorithm hyperparameters, that in principle have no influence on the performance of the model but affect the speed and quality of the learning process. An example of a model hyperparameter is the topology and size of a neural network. Examples of algorithm hyperparameters are learning rate and mini-batch size.[clarification needed]\n"
+  },
+  {
+    "title": "Adversarial machine learning",
+    "url": "https://en.wikipedia.org/wiki/Adversarial_machine_learning",
+    "page_details": "49 KB (5,854 words) - 13:32, 2 February 2022",
+    "paragraph": "Adversarial machine learning is a machine learning technique that attempts to exploit models by taking advantage of obtainable model information and using it to create malicious attacks.[1][2][3] The most common reason is to cause a malfunction in a machine learning model.\nMost machine learning techniques were designed to work on specific problem sets in which the training and test data are generated from the same statistical distribution (IID). When those models are applied to the real world, adversaries may supply data that violates that statistical assumption. This data may be arranged to exploit specific vulnerabilities and compromise the results.[3][4] The four most common adversarial machine learning strategies are evasion, poisoning, model stealing (extraction), and inference.[5]\n"
+  },
+  {
+    "title": "Transformer (machine learning model)",
+    "url": "https://en.wikipedia.org/wiki/Transformer_(machine_learning_model)",
+    "page_details": "23 KB (2,807 words) - 14:52, 1 February 2022",
+    "paragraph": "A transformer is a deep learning model that adopts the mechanism of self-attention, differentially weighting the significance of each part of the input data. It is used primarily in the field of natural language processing (NLP)[1] and in computer vision (CV).[2]\nLike recurrent neural networks (RNNs), transformers are designed to handle sequential input data, such as natural language, for tasks such as translation and text summarization. However, unlike RNNs, transformers do not necessarily process the data in order. Rather, the attention mechanism provides context for any position in the input sequence. For example, if the input data is a natural language sentence, the transformer does not need to process the beginning of the sentence before the end. Rather, it identifies the context that confers meaning to each word in the sentence. This feature allows for more parallelization than RNNs and therefore reduces training times.[1]\n"
+  },
+  {
+    "title": "Support-vector machine",
+    "url": "https://en.wikipedia.org/wiki/Support-vector_machine",
+    "page_details": "59 KB (8,591 words) - 13:16, 7 January 2022",
+    "paragraph": "In machine learning, support-vector machines (SVMs, also support-vector networks[1]) are supervised learning models with associated learning algorithms that analyze data for classification and regression analysis. Developed at AT&T Bell Laboratories by Vladimir Vapnik with colleagues (Boser et al., 1992, Guyon et al., 1993, Cortes and Vapnik, 1995,[2]  Vapnik et al., 1997[citation needed]) SVMs are one of the most robust prediction methods, being based on statistical learning frameworks or VC theory proposed by Vapnik (1982, 1995) and Chervonenkis (1974). Given a set of training examples, each marked as belonging to one of two categories, an SVM training algorithm builds a model that assigns new examples to one category or the other, making it a non-probabilistic binary linear classifier (although methods such as Platt scaling exist to use SVM in a probabilistic classification setting). SVM maps training examples to points in space so as to maximise the width of the gap between the two categories. New examples are then mapped into that same space and predicted to belong to a category based on which side of the gap they fall.\nIn addition to performing linear classification, SVMs can efficiently perform a non-linear classification using what is called the kernel trick, implicitly mapping their inputs into high-dimensional feature spaces.\n"
+  },
+  {
+    "title": "Online machine learning",
+    "url": "https://en.wikipedia.org/wiki/Online_machine_learning",
+    "page_details": "25 KB (4,720 words) - 14:35, 26 January 2022",
+    "paragraph": "In computer science, online machine learning is a method of machine learning in which data becomes available in a sequential order and is used to update the best predictor for future data at each step, as opposed to batch learning techniques which generate the best predictor by learning on the entire training data set at once. Online learning is a common technique used in areas of machine learning where it is computationally infeasible to train over the entire dataset, requiring the need of out-of-core algorithms. It is also used in situations where it is necessary for the algorithm to dynamically adapt to new patterns in the data, or when the data itself is generated as a function of time, e.g., stock price prediction.\nOnline learning algorithms may be prone to catastrophic interference, a problem that can be addressed by incremental learning approaches.\nIn the setting of supervised learning, a function of \n  \n    \n      \n        f\n        :\n        X\n        \u2192\n        Y\n      \n    \n    {\\displaystyle f:X\\to Y}\n  \n is to be learned, where \n  \n    \n      \n        X\n      \n    \n    {\\displaystyle X}\n  \n is thought of as a space of inputs and \n  \n    \n      \n        Y\n      \n    \n    {\\displaystyle Y}\n  \n as a space of outputs, that predicts well on instances that are drawn from a joint probability distribution \n  \n    \n      \n        p\n        (\n        x\n        ,\n        y\n        )\n      \n    \n    {\\displaystyle p(x,y)}\n  \n on \n  \n    \n      \n        X\n        \u00d7\n        Y\n      \n    \n    {\\displaystyle X\\times Y}\n  \n. In reality, the learner never knows the true distribution \n  \n    \n      \n        p\n        (\n        x\n        ,\n        y\n        )\n      \n    \n    {\\displaystyle p(x,y)}\n  \n over instances. Instead, the learner usually has access to a training set of examples \n  \n    \n      \n        (\n        \n          x\n          \n            1\n          \n        \n        ,\n        \n          y\n          \n            1\n          \n        \n        )\n        ,\n        \u2026\n        ,\n        (\n        \n          x\n          \n            n\n          \n        \n        ,\n        \n          y\n          \n            n\n          \n        \n        )\n      \n    \n    {\\displaystyle (x_{1},y_{1}),\\ldots ,(x_{n},y_{n})}\n  \n. In this setting, the loss function is given as \n  \n    \n      \n        V\n        :\n        Y\n        \u00d7\n        Y\n        \u2192\n        \n          R\n        \n      \n    \n    {\\displaystyle V:Y\\times Y\\to \\mathbb {R} }\n  \n, such that \n  \n    \n      \n        V\n        (\n        f\n        (\n        x\n        )\n        ,\n        y\n        )\n      \n    \n    {\\displaystyle V(f(x),y)}\n  \n measures the difference between the predicted value \n  \n    \n      \n        f\n        (\n        x\n        )\n      \n    \n    {\\displaystyle f(x)}\n  \n and the true value \n  \n    \n      \n        y\n      \n    \n    {\\displaystyle y}\n  \n. The ideal goal is to select a function \n  \n    \n      \n        f\n        \u2208\n        \n          \n            H\n          \n        \n      \n    \n    {\\displaystyle f\\in {\\mathcal {H}}}\n  \n, where \n  \n    \n      \n        \n          \n            H\n          \n        \n      \n    \n    {\\displaystyle {\\mathcal {H}}}\n  \n is a space of functions called a hypothesis space, so that some notion of total loss is minimised. Depending on the type of model (statistical or adversarial), one can devise different notions of loss, which lead to different learning algorithms.\n"
+  },
+  {
+    "title": "Supervised learning",
+    "url": "https://en.wikipedia.org/wiki/Supervised_learning",
+    "page_details": "22 KB (3,074 words) - 09:30, 2 November 2021",
+    "paragraph": "Supervised learning (SL) is the machine learning task of learning a function that maps an input to an output based on example input-output pairs.[1] It infers a function from .mw-parser-output .vanchor>:target~.vanchor-text{background-color:#b1d2ff}labeled training data consisting of a set of training examples.[2] In supervised learning, each example is a pair consisting of an input object (typically a vector) and a desired output value (also called the supervisory signal). A supervised learning algorithm analyzes the training data and produces an inferred function, which can be used for mapping new examples. An optimal scenario will allow for the algorithm to correctly determine the class labels for unseen instances. This requires the learning algorithm to generalize from the training data to unseen situations in a \"reasonable\" way (see inductive bias). This statistical quality of an algorithm is measured through the so-called generalization error.\nThe parallel task in human and animal psychology is often referred to as concept learning.\n"
+  },
+  {
+    "title": "Feature (machine learning)",
+    "url": "https://en.wikipedia.org/wiki/Feature_(machine_learning)",
+    "page_details": "7 KB (832 words) - 19:34, 25 November 2021",
+    "paragraph": "In machine learning and pattern recognition, a feature is an individual measurable property or characteristic of a phenomenon.[1] Choosing informative, discriminating and independent features is a crucial element of effective algorithms in pattern recognition,  classification and regression. Features are usually numeric, but structural features such as strings and graphs are used in syntactic pattern recognition. The concept of \"feature\" is related to that of explanatory variable used in statistical techniques such as linear regression.\nA numeric feature can be conveniently described by a feature vector. One way to achieve binary classification is using a linear predictor function (related to the perceptron) with a feature vector as input. The method consists of calculating the scalar product between the feature vector and a vector of weights, qualifying those observations whose result exceeds a threshold.\n"
+  },
+  {
+    "title": "Deep learning",
+    "url": "https://en.wikipedia.org/wiki/Deep_learning",
+    "page_details": "145 KB (14,363 words) - 03:50, 31 January 2022",
+    "paragraph": "Deep learning  (also known as deep structured learning) is part of a broader family of machine learning methods based on artificial neural networks with representation learning. Learning can be supervised, semi-supervised or unsupervised.[2][3][4]\nDeep-learning architectures such as deep neural networks, deep belief networks, deep reinforcement learning, recurrent neural networks and convolutional neural networks have been applied to fields including computer vision, speech recognition, natural language processing, machine translation, bioinformatics, drug design, medical image analysis, material inspection and board game programs, where they have produced results comparable to and in some cases surpassing human expert performance.[5][6][7][8]\n"
+  },
+  {
+    "title": "Attention (machine learning)",
+    "url": "https://en.wikipedia.org/wiki/Attention_(machine_learning)",
+    "page_details": "15 KB (817 words) - 05:17, 29 January 2022",
+    "paragraph": "In neural networks, attention is a technique that mimics cognitive attention. The effect enhances some parts of the input data while diminishing other parts \u2014 the thought being that the network should devote more focus to that small but important part of the data. Learning which part of the data is more important than others depends on the context and is trained by gradient descent.\nAttention-like mechanisms were introduced in the 1990s under names like multiplicative modules, sigma pi units, and hypernetworks.[1] Its flexibility comes from its role as \"soft weights\" that can change during runtime, in contrast to standard weights that must remain fixed at runtime.  Uses of attention include  memory in neural Turing machines, reasoning tasks in differentiable neural computers,[2] language processing in transformers, and multi-sensory data processing (sound, images, video, and text) in perceivers.[3][4][5][6]\n"
+  },
+  {
+    "title": "Outline of machine learning",
+    "url": "https://en.wikipedia.org/wiki/Outline_of_machine_learning",
+    "page_details": "41 KB (3,575 words) - 14:47, 21 January 2022",
+    "paragraph": "The following outline is provided as an overview of and topical guide to machine learning. Machine learning is a subfield of soft computing within computer science that evolved from the study of pattern recognition and computational learning theory in artificial intelligence.[1] In 1959, Arthur Samuel defined machine learning as a \"field of study that gives computers the ability to learn without being explicitly programmed\".[2] Machine learning explores the study and construction of algorithms that can learn from and make predictions on data.[3] Such algorithms operate by building a model from an example training set of input observations in order to make data-driven predictions or decisions expressed as outputs, rather than following strictly static program instructions.\nDimensionality reduction\n"
+  },
+  {
+    "title": "Timeline of machine learning",
+    "url": "https://en.wikipedia.org/wiki/Timeline_of_machine_learning",
+    "page_details": "26 KB (1,435 words) - 03:57, 10 January 2022",
+    "paragraph": "This page is a timeline of machine learning. Major discoveries, achievements, milestones and other major events are included.\n\n"
+  },
+  {
+    "title": "Artificial intelligence",
+    "url": "https://en.wikipedia.org/wiki/Artificial_intelligence",
+    "page_details": "177 KB (17,566 words) - 04:18, 3 February 2022",
+    "paragraph": "\nArtificial intelligence (AI) is intelligence demonstrated by machines, as opposed to natural intelligence displayed by animals including humans.\nLeading AI textbooks define the field as the study of \"intelligent agents\": any system that perceives its environment and takes actions that maximize its chance of achieving its goals.[a]\nSome popular accounts use the term \"artificial intelligence\" to describe machines that mimic \"cognitive\" functions that humans associate with the human mind, such as \"learning\" and \"problem solving\", however, this definition is rejected by major AI researchers.[b]\n"
+  },
+  {
+    "title": "Artificial neural network",
+    "url": "https://en.wikipedia.org/wiki/Artificial_neural_network",
+    "page_details": "92 KB (10,416 words) - 16:39, 3 February 2022",
+    "paragraph": "Collective intelligence\nCollective action\nSelf-organized criticality\nHerd mentality\nPhase transition\nAgent-based modelling\nSynchronization\nAnt colony optimization\nParticle swarm optimization\nSwarm behaviour\nSocial network analysis\nSmall-world networks\nCentrality\nMotifs\nGraph theory\nScaling\nRobustness\nSystems biology\nDynamic networks\n"
+  },
+  {
+    "title": "Weka (machine learning)",
+    "url": "https://en.wikipedia.org/wiki/Weka_(machine_learning)",
+    "page_details": "10 KB (1,006 words) - 00:38, 28 January 2022",
+    "paragraph": "Waikato Environment for Knowledge Analysis (Weka), developed at the University of Waikato, New Zealand, is free software licensed under the GNU General Public License, and the companion software to the book \"Data Mining: Practical Machine Learning Tools and Techniques\".[1]\nWeka contains a collection of visualization tools and algorithms for data analysis and predictive modeling, together with graphical user interfaces for easy access to these functions.[1] The original non-Java version of Weka was a Tcl/Tk front-end to (mostly third-party) modeling algorithms implemented in other programming languages, plus data preprocessing utilities in C, and a makefile-based system for running machine learning experiments. This original version was primarily designed as a tool for analyzing data from agricultural domains,[2][3] but the more recent fully Java-based version (Weka 3), for which development started in 1997, is now used in many different application areas, in particular for educational purposes and research. Advantages of Weka include:\n"
+  },
+  {
+    "title": "Reinforcement learning",
+    "url": "https://en.wikipedia.org/wiki/Reinforcement_learning",
+    "page_details": "45 KB (5,458 words) - 20:20, 5 February 2022",
+    "paragraph": "Reinforcement learning (RL) is an area of machine learning concerned with how intelligent agents ought to take actions in an environment in order to maximize the notion of cumulative reward. Reinforcement learning is one of three basic machine learning paradigms, alongside supervised learning and unsupervised learning.\nReinforcement learning differs from supervised learning in not needing labelled input/output pairs be presented, and in not needing sub-optimal actions to be explicitly corrected. Instead the focus is on finding a balance between exploration (of uncharted territory) and exploitation (of current knowledge).[1] Partially supervised RL algorithms can combine the advantages of supervised and RL algorithms.[2]\n"
+  },
+  {
+    "title": "The Alignment Problem",
+    "url": "https://en.wikipedia.org/wiki/The_Alignment_Problem",
+    "page_details": "7 KB (674 words) - 21:14, 27 January 2022",
+    "paragraph": "The Alignment Problem: Machine Learning and Human Values is a 2020 non-fiction book by the American writer Brian Christian. It is based on numerous interviews with experts trying to build artificial intelligence systems, particular machine learning systems, that are aligned with human values.\nThe book is divided into three sections: Prophecy, Agency, and Normativity. Each section covers researchers and engineers working on different challenges in the alignment of artificial intelligence with human values.\n"
+  },
+  {
+    "title": "Learning",
+    "url": "https://en.wikipedia.org/wiki/Learning",
+    "page_details": "66 KB (8,253 words) - 22:17, 5 February 2022",
+    "paragraph": "Learning is the process of acquiring new understanding, knowledge, behaviors, skills, values, attitudes, and preferences.[1] The ability to learn is possessed by humans, animals, and some machines; there is also evidence for some kind of learning in certain plants.[2] Some learning is immediate, induced by a single event (e.g. being burned by a hot stove), but much skill and knowledge accumulate from repeated experiences. The changes induced by learning often last a lifetime, and it is hard to distinguish learned material that seems to be \"lost\" from that which cannot be retrieved.[3]\nHuman learning starts at birth (it might even start before[4]) and continues until death as a consequence of ongoing interactions between people and their environment. The nature and processes involved in learning are studied in many fields, including educational psychology, neuropsychology, experimental psychology, and pedagogy. Research in such fields has led to the identification of various sorts of learning. For example, learning may occur as a result of habituation, or classical conditioning, operant conditioning or as a result of more complex activities such as play, seen only in relatively intelligent animals.[5][6] Learning may occur consciously or without conscious awareness. Learning that an aversive event can't be avoided or escaped may result in a condition called learned helplessness.[7] There is evidence for human behavioral learning prenatally, in which habituation has been observed as early as 32 weeks into gestation, indicating that the central nervous system is sufficiently developed and primed for learning and memory to occur very early on in development.[8]\n"
+  },
+  {
+    "title": "Extreme learning machine",
+    "url": "https://en.wikipedia.org/wiki/Extreme_learning_machine",
+    "page_details": "22 KB (3,082 words) - 06:11, 19 January 2022",
+    "paragraph": "Extreme learning machines are feedforward neural networks for classification, regression, clustering, sparse approximation, compression and feature learning with a single layer or multiple layers of hidden nodes, where the parameters of hidden nodes (not just the weights connecting inputs to hidden nodes) need not be tuned. These hidden nodes can be randomly assigned and never updated (i.e. they are random projection but with nonlinear transforms), or can be inherited from their ancestors without being changed. In most cases, the output weights of hidden nodes are usually learned in a single step, which essentially amounts to learning a linear model. The name \"extreme learning machine\" (ELM) was given to such models by its main inventor Guang-Bin Huang.\nAccording to their creators, these models are able to produce good generalization performance and learn thousands of times faster than networks trained using backpropagation.[1]  In literature, it also shows that  these models can outperform support vector machines in both classification and regression applications.[2][3][4]\n"
+  },
+  {
+    "title": "Learning curve (machine learning)",
+    "url": "https://en.wikipedia.org/wiki/Learning_curve_(machine_learning)",
+    "page_details": "6 KB (784 words) - 00:53, 29 November 2021",
+    "paragraph": "In machine learning, a learning curve (or training curve) plots the optimal value of a model's loss function for a training set against this loss function evaluated on a validation data set with same parameters as produced the optimal function. It is a tool to find out how much a machine model benefits from adding more training data and whether the estimator suffers more from a variance error or a bias error. If both the validation score and the training score converge to a value that is too low with increasing size of the training set, it will not benefit much from more training data.[1]\nThe machine learning curve is useful for many purposes including comparing different algorithms,[2]  choosing model parameters during design,[3] adjusting optimization to improve convergence, and determining the amount of data used for training.[4]\n"
+  },
+  {
+    "title": "Ensemble learning",
+    "url": "https://en.wikipedia.org/wiki/Ensemble_learning",
+    "page_details": "46 KB (5,903 words) - 14:28, 22 January 2022",
+    "paragraph": "In statistics and machine learning, ensemble methods use multiple learning algorithms to obtain better predictive performance than could be obtained from any of the constituent learning algorithms alone.[1][2][3]\nUnlike a statistical ensemble in statistical mechanics, which is usually infinite, a machine learning ensemble consists of only a concrete finite set of alternative models, but typically allows for much more flexible structure to exist among those alternatives.\nSupervised learning algorithms perform the task of searching through a hypothesis space to find a suitable hypothesis that will make good predictions with a particular problem.[4] Even if the hypothesis space contains hypotheses that are very well-suited for a particular problem, it may be very difficult to find a good one. Ensembles combine multiple hypotheses to form a (hopefully) better hypothesis. The term ensemble is usually reserved for methods that generate multiple hypotheses using the same base learner.[according to whom?]\nThe broader term of multiple classifier systems also covers hybridization of hypotheses that are not induced by the same base learner.[citation needed]\n"
+  },
+  {
+    "title": "Rule-based machine learning",
+    "url": "https://en.wikipedia.org/wiki/Rule-based_machine_learning",
+    "page_details": "4 KB (467 words) - 13:13, 14 July 2021",
+    "paragraph": "Rule-based machine learning (RBML) is a term in computer science intended to encompass any machine learning method that identifies, learns, or evolves 'rules' to store, manipulate or apply.[1][2][3]  The defining characteristic of a rule-based machine learner is the identification and utilization of a set of relational rules that collectively represent the knowledge captured by the system.  This is in contrast to other machine learners that commonly identify a singular model that can be universally applied to any instance in order to make a prediction.[clarification needed][citation needed]\nRule-based machine learning approaches include learning classifier systems,[4] association rule learning,[5] artificial immune systems,[6] and any other method that relies on a set of rules, each covering contextual knowledge.\n"
+  },
+  {
+    "title": "International Conference on Machine Learning",
+    "url": "https://en.wikipedia.org/wiki/International_Conference_on_Machine_Learning",
+    "page_details": "3 KB (249 words) - 10:06, 17 October 2021",
+    "paragraph": "The International Conference on Machine Learning (ICML) is the leading international academic conference in machine learning. Along with NeurIPS and ICLR, it is one of the three primary conferences of high impact in machine learning and artificial intelligence research.[1] It is supported by the International Machine Learning Society (IMLS). Precise dates vary from year to year, but paper submissions are generally due at the end of January, and the conference is generally held during the following July. The first ICML was held 1980 in Pittsburgh.[2]\n\n"
+  },
+  {
+    "title": "Unsupervised learning",
+    "url": "https://en.wikipedia.org/wiki/Unsupervised_learning",
+    "page_details": "22 KB (2,103 words) - 20:06, 15 January 2022",
+    "paragraph": "Unsupervised learning  is a type of algorithm that learns patterns from untagged data. The hope is that through mimicry, which is an important mode of learning in people, the machine is forced to build a compact internal representation of its world and then generate imaginative content from it. In contrast to supervised learning where data is tagged by an expert, e.g. as a \"ball\" or \"fish\", unsupervised methods exhibit self-organization that captures patterns as probability densities [1] or a combination of neural feature preferences. The other levels in the supervision spectrum are reinforcement learning where the machine is given only a numerical performance score as guidance, and semi-supervised learning where a smaller portion of the data is tagged. Two broad methods in Unsupervised Learning are Neural Networks and Probabilistic Methods.\nNeural network tasks are often categorized as discriminative (recognition) or generative (imagination).  Often but not always, discriminative tasks use supervised methods and generative tasks use unsupervised (see Venn diagram); however, the separation is very hazy.  For example, object recognition favors supervised learning but unsupervised learning can also cluster objects into groups.  Furthermore, as progress marches onward some tasks employ both methods, and some tasks swing from one to another.  For example, image recognition started off as heavily supervised, but became hybrid by employing unsupervised pre-training, and then moved towards supervision again with the advent of dropout, relu, and adaptive learning rates.\n"
+  },
+  {
+    "title": "Horovod (machine learning)",
+    "url": "https://en.wikipedia.org/wiki/Horovod_(machine_learning)",
+    "page_details": "3 KB (164 words) - 01:13, 18 January 2022",
+    "paragraph": "Horovod is a free and open-source software framework for distributed deep learning training using TensorFlow, Keras, PyTorch, and Apache MXNet. Horovod is hosted under the Linux Foundation AI (LF AI).[3] Horovod has the goal of improving the speed, scale, and resource allocation when training a machine learning model.[4]\n"
+  },
+  {
+    "title": "Microsoft Azure",
+    "url": "https://en.wikipedia.org/wiki/Microsoft_Azure",
+    "page_details": "47 KB (4,343 words) - 19:43, 1 February 2022",
+    "paragraph": "Microsoft Azure, often referred to as Azure (/\u02c8\u00e6\u0292\u0259r, \u02c8e\u026a\u0292\u0259r/ AZH-\u0259r, AY-zh\u0259r, UK also /\u02c8\u00e6zj\u028a\u0259r, \u02c8e\u026azj\u028a\u0259r/ AZ-ure, AY-zure),[2][3][4] is a cloud computing service operated by Microsoft for application management via Microsoft-managed data centers. It provides software as a service (SaaS), platform as a service (PaaS) and infrastructure as a service (IaaS) and supports many different programming languages, tools, and frameworks, including both Microsoft-specific and third-party software and systems.\n"
+  },
+  {
+    "title": "Federated learning",
+    "url": "https://en.wikipedia.org/wiki/Federated_learning",
+    "page_details": "40 KB (4,896 words) - 00:19, 30 January 2022",
+    "paragraph": "Federated learning (also known as collaborative learning) is a machine learning technique that trains an algorithm across multiple decentralized edge devices or servers holding local data samples, without exchanging them. This approach stands in contrast to traditional centralized machine learning techniques where all the local datasets are uploaded to one server, as well as to more classical decentralized approaches which often assume that local data samples are identically distributed.\nFederated learning enables multiple actors to build a common, robust machine learning model without sharing data, thus allowing to address critical issues such as data privacy, data security, data access rights and access to heterogeneous data. Its applications are spread over a number of industries including defense, telecommunications, IoT, and pharmaceutics.\n"
+  },
+  {
+    "title": "Torch (machine learning)",
+    "url": "https://en.wikipedia.org/wiki/Torch_(machine_learning)",
+    "page_details": "9 KB (872 words) - 19:45, 15 November 2021",
+    "paragraph": "Torch is an open-source machine learning library, \na scientific computing framework, and a script language based on the Lua programming language.[3] It provides a wide range of algorithms for deep learning, and uses the scripting language LuaJIT, and an underlying C implementation. It was created at IDIAP at EPFL. As of 2018, Torch is no longer in active development.[4] However PyTorch, which is based on the Torch library, is actively developed as of June 2021.[5]\nThe core package of Torch is torch. It provides a flexible N-dimensional array or Tensor, which supports basic routines for indexing, slicing, transposing, type-casting, resizing, sharing storage and cloning. This object is used by most other packages and thus forms the core object of the library. The Tensor also supports mathematical operations like max, min, sum,  statistical distributions like uniform, normal and multinomial, and BLAS operations like dot product, matrix-vector multiplication, matrix-matrix multiplication, matrix-vector product and matrix product.\n"
+  },
+  {
+    "title": "Machine learning control",
+    "url": "https://en.wikipedia.org/wiki/Machine_learning_control",
+    "page_details": "6 KB (705 words) - 14:32, 17 December 2021",
+    "paragraph": "Machine learning control (MLC) is a subfield of machine learning, intelligent control and control theory\nwhich solves optimal control problems with methods of machine learning.\nKey applications are complex nonlinear systems\nfor which linear control theory methods are not applicable.\nFour types of problems are commonly encountered.\n"
+  },
+  {
+    "title": "Semi-supervised learning",
+    "url": "https://en.wikipedia.org/wiki/Semi-supervised_learning",
+    "page_details": "22 KB (3,000 words) - 10:12, 10 October 2021",
+    "paragraph": "Semi-supervised learning is an approach to machine learning that combines a small amount of labeled data with a large amount of unlabeled data during training. Semi-supervised learning falls between unsupervised learning (with no labeled training data) and supervised learning (with only labeled training data). It is a special instance of weak supervision.\nUnlabeled data, when used in conjunction with a small amount of labeled data, can produce considerable improvement in learning accuracy. The acquisition of labeled data for a learning problem often requires a skilled human agent (e.g. to transcribe an audio segment) or a physical experiment (e.g. determining the 3D structure of a protein or determining whether there is oil at a particular location). The cost associated with the labeling process thus may render large, fully labeled training sets infeasible, whereas acquisition of unlabeled data is relatively inexpensive. In such situations, semi-supervised learning can be of great practical value. Semi-supervised learning is also of theoretical interest in machine learning and as a model for human learning.\n"
+  },
+  {
+    "title": "Decision tree learning",
+    "url": "https://en.wikipedia.org/wiki/Decision_tree_learning",
+    "page_details": "43 KB (5,957 words) - 19:58, 31 December 2021",
+    "paragraph": "Decision tree learning or induction of decision trees is one of the predictive modelling approaches used in statistics, data mining and machine learning. It uses a decision tree (as a predictive model) to go from observations about an item (represented in the branches) to conclusions about the item's target value (represented in the leaves). Tree models where the target variable can take a discrete set of values are called classification trees; in these tree structures, leaves represent class labels and branches represent conjunctions of features that lead to those class labels. Decision trees where the target variable can take continuous values (typically real numbers) are called regression trees. Decision trees are among the most popular machine learning algorithms given their intelligibility and simplicity.[1]\nIn decision analysis, a decision tree can be used to visually and explicitly represent decisions and decision making. In data mining, a decision tree describes data (but the resulting classification tree can be an input for decision making). This page deals with decision trees in data mining.\n"
+  },
+  {
+    "title": "Machine learning in physics",
+    "url": "https://en.wikipedia.org/wiki/Machine_learning_in_physics",
+    "page_details": "17 KB (1,997 words) - 02:30, 30 January 2022",
+    "paragraph": "Applying classical methods of machine learning to the study of quantum systems (sometimes called quantum machine learning) is the focus of an emergent area of physics research. A basic example of this is quantum state tomography, where a quantum state is learned from measurement.[1] Other examples include learning Hamiltonians,[2][3] learning quantum phase transitions,[4][5] and automatically generating new quantum experiments.[6][7][8][9] Classical machine learning is effective at processing large amounts of experimental or calculated data in order to characterize an unknown quantum system, making its application useful in contexts including quantum information theory, quantum technologies development, and computational materials design. In this context, it can be used for example as a tool to interpolate pre-calculated interatomic potentials[10] or directly solving the Schr\u00f6dinger equation with a variational method.[11]\nThe ability to experimentally control and prepare increasingly complex quantum systems brings with it a growing need to turn large and noisy data sets into meaningful information. This is a problem that has already been studied extensively in the classical setting, and consequently, many existing machine learning techniques can be naturally adapted to more efficiently address experimentally relevant problems. For example, Bayesian methods and concepts of algorithmic learning can be fruitfully applied to tackle quantum state classification,[12] Hamiltonian learning,[13] and the characterization of an unknown unitary transformation.[14][15] Other problems that have been addressed with this approach are given in the following list:\n"
+  },
+  {
+    "title": "Explainable artificial intelligence",
+    "url": "https://en.wikipedia.org/wiki/Explainable_artificial_intelligence",
+    "page_details": "43 KB (4,561 words) - 12:36, 2 February 2022",
+    "paragraph": "Explainable AI (XAI), or Interpretable AI,  is artificial intelligence (AI) in which the results of the solution can be understood by humans. It contrasts with the concept of the \"black box\" in machine learning where even its designers cannot explain why an AI arrived at a specific decision.[1] XAI may be an implementation of the social right to explanation.[2]  XAI is relevant even if there is no legal right or regulatory requirement\u2014for example, XAI can improve the user experience of a product or service by helping end users trust that the AI is making good decisions. This way the aim of XAI is to explain what has been done, what is done right now, what will be done next and unveil the information the actions are based on.[3] These characteristics make it possible (i) to confirm existing knowledge (ii) to challenge existing knowledge and (iii) to generate new assumptions.[4]\nThe algorithms used in AI can be differentiated into white-box and black-box machine learning (ML) algorithms. White-box models are ML models that provide results that are understandable for experts in the domain. Black-box models, on the other hand, are extremely hard to explain and can hardly be understood even by domain experts.[5] XAI algorithms are considered to follow the three principles of transparency, interpretability and explainability. Transparency is given \u201cif the processes that extract model parameters from training data and generate labels from testing data can be described and motivated by the approach designer\u201d.[6] Interpretability describes the possibility to comprehend the ML model and to present the underlying basis for decision-making in a way that is understandable to humans.[7][8][9] Explainability is a concept that is recognized as important, but a joint definition is not yet available.[6] It is suggested that explainability in ML can be considered as \u201cthe collection of features of the interpretable domain, that have contributed for a given example to produce a decision (e.g., classification or regression)\u201d.[10] If algorithms meet these requirements, they provide a basis for justifying decisions, tracking and thereby verifying them, improving the algorithms, and exploring new facts.[11]\n"
+  },
+  {
+    "title": "Regularization (mathematics)",
+    "url": "https://en.wikipedia.org/wiki/Regularization_(mathematics)",
+    "page_details": "25 KB (4,161 words) - 10:38, 4 February 2022",
+    "paragraph": "In mathematics, statistics, finance,[1] computer science, particularly in machine learning and inverse problems, regularization is the process of adding information in order to solve an ill-posed problem or to prevent overfitting.[2]\nRegularization can be applied to objective functions in ill-posed optimization problems. The regularization term, or penalty, imposes a cost on the optimization function to make the optimal solution unique.\n"
+  },
+  {
+    "title": "Transduction (machine learning)",
+    "url": "https://en.wikipedia.org/wiki/Transduction_(machine_learning)",
+    "page_details": "8 KB (1,178 words) - 06:47, 24 March 2021",
+    "paragraph": "In logic, statistical inference, and supervised learning,\ntransduction or transductive inference is reasoning from\nobserved, specific (training) cases to specific (test) cases. In contrast,\ninduction is reasoning from observed training cases\nto general rules, which are then applied to the test cases. The distinction is\nmost interesting in cases where the predictions of the transductive model are\nnot achievable by any inductive model. Note that this is caused by transductive\ninference on different test sets producing mutually inconsistent predictions.\nTransduction was introduced by Vladimir Vapnik in the 1990s, motivated by\nhis view that transduction is preferable to induction since, according to him, induction requires\nsolving a more general problem (inferring a function) before solving a more\nspecific problem (computing outputs for new cases): \"When solving a problem of\ninterest, do not solve a more general problem as an intermediate step. Try to\nget the answer that you really need but not a more general one.\"[1] A similar\nobservation had been made earlier by Bertrand Russell:\n\"we shall reach the conclusion that Socrates is mortal with a greater approach to \ncertainty if we make our argument purely inductive than if we go by way of 'all men are mortal' and then use \ndeduction\" (Russell 1912, chap VII).\n"
+  },
+  {
+    "title": "Fairness (machine learning)",
+    "url": "https://en.wikipedia.org/wiki/Fairness_(machine_learning)",
+    "page_details": "34 KB (5,348 words) - 20:42, 24 January 2022",
+    "paragraph": "Fairness refers to the various attempts at correcting algorithmic bias. While definitions of fairness are always controversial, results may be considered fair if they are independent of given variable, especially those considered sensitive, such as the traits of individuals that should not correlate with the outcome (i.e. gender, ethnicity, sexual orientation, disability, etc.). In machine learning, the problem of algorithmic bias is well known and well studied. Outcomes may be skewed by a range of factors and thus might be considered unfair to certain groups or individuals. An example would be the way social media sites deliver personalized news to consumers. \nResearch about fairness in machine learning is a relatively recent topic. In 2018, a majority of papers on the topic had been published in the preceding three years.[1] That same year, IBM introduced AI Fairness 360, a Python library with several algorithms to reduce software bias and increase its fairness[2][3] and Facebook made public their use of a tool, Fairness Flow, to detect bias in their AI. However, the source code of the tool is not accessible.[4] In 2019, Google published a set of tools in GitHub to study the effects of fairness in the long run.[5]\n"
+  },
+  {
+    "title": "Regression analysis",
+    "url": "https://en.wikipedia.org/wiki/Regression_analysis",
+    "page_details": "36 KB (5,070 words) - 06:24, 19 January 2022",
+    "paragraph": "In statistical modeling, regression analysis is a set of statistical processes for estimating the relationships between a dependent variable (often called the 'outcome' or 'response' variable) and one or more independent variables (often called 'predictors', 'covariates', 'explanatory variables' or 'features'). The most common form of regression analysis is linear regression, in which one finds the line (or a more complex linear combination) that most closely fits the data according to a specific mathematical criterion. For example, the method of ordinary least squares computes the unique line (or hyperplane) that minimizes the sum of squared differences between the true data and that line (or hyperplane). For specific mathematical reasons (see linear regression), this allows the researcher to estimate the conditional expectation (or population average value) of the dependent variable when the independent variables take on a given set of values. Less common forms of regression use slightly different procedures to estimate alternative location parameters (e.g., quantile regression or Necessary Condition Analysis[1]) or estimate the conditional expectation across a broader collection of non-linear models (e.g., nonparametric regression).\nRegression analysis is primarily used for two conceptually distinct purposes. \n"
+  },
+  {
+    "title": "GloVe (machine learning)",
+    "url": "https://en.wikipedia.org/wiki/GloVe_(machine_learning)",
+    "page_details": "4 KB (402 words) - 19:40, 18 August 2021",
+    "paragraph": "GloVe, coined from Global Vectors, is a model for distributed word representation. The model is an unsupervised learning algorithm for obtaining vector representations for words. This is achieved by mapping words into a meaningful space where the distance between words is related to semantic similarity.[1] Training is performed on aggregated global word-word co-occurrence statistics from a corpus, and the resulting representations showcase interesting linear substructures of the word vector space. It is developed as an open-source project at Stanford[2] and was launched in 2014. As log-bilinear regression model for unsupervised learning of word representations, it combines the features of two model families, namely the global matrix factorization and local context window methods.[3]\nGloVe can be used to find relations between words like synonyms, company-product relations, zip codes and cities, etc. However, the unsupervised learning algorithm is not effective in identifying homographs, i.e., words with the same spelling and different meanings. This is as the unsupervised learning algorithm calculates a single set of vectors for words with the same morphological structure.[4]The algorithm is also used by the SpaCy library to build semantic word embedding features, while computing the top list words that match with distance measures such as cosine similarity and Euclidean distance approach.[5] GloVe was also used as the word representation framework for the online and offline systems designed to detect psychological distress in patient interviews.[1]\n"
+  },
+  {
+    "title": "Transfer learning",
+    "url": "https://en.wikipedia.org/wiki/Transfer_learning",
+    "page_details": "14 KB (1,600 words) - 11:56, 5 February 2022",
+    "paragraph": "Transfer learning (TL) is a research problem in machine learning (ML) that focuses on storing knowledge gained while solving one problem and applying it to a different but related problem.[1] For example, knowledge gained while learning to recognize cars could apply when trying to recognize trucks.  This area of research bears some relation to the long history of psychological literature on transfer of learning, although practical ties between the two fields are limited. From the practical standpoint, reusing or transferring information from previously learned tasks for the learning of new tasks has the potential to significantly improve the sample efficiency of a reinforcement learning agent.[2]\nIn 1976, Stevo Bozinovski and Ante Fulgosi published a paper explicitly addressing transfer learning in neural networks training.[3][4] The paper gives a mathematical and geometrical model of transfer learning. In 1981, a report was given on the application of transfer learning in training a neural network on a dataset of images representing letters of computer terminals. Both positive and negative transfer learning was experimentally demonstrated.[5]\n"
+  },
+  {
+    "title": "Machine learning in video games",
+    "url": "https://en.wikipedia.org/wiki/Machine_learning_in_video_games",
+    "page_details": "30 KB (3,685 words) - 02:32, 30 January 2022",
+    "paragraph": "In video games, various artificial intelligence techniques have been used in a variety of ways, ranging from non-player character (NPC) control to procedural content generation (PCG). Machine learning is a subset of artificial intelligence that focuses on using algorithms and statistical models to make machines act without specific programming. This is in sharp contrast to traditional methods of artificial intelligence such as search trees and expert systems.\nInformation on machine learning techniques in the field of games is mostly known to public through research projects as most gaming companies choose not to publish specific information about their intellectual property. The most publicly known application of machine learning in games is likely the use of deep learning agents that compete with professional human players in complex strategy games. There has been a significant application of machine learning on games such as Atari/ALE, Doom, Minecraft, StarCraft, and car racing.[1] Other games that did not originally exists as video games, such as chess and Go have also been affected by the machine learning.[2]\n"
+  },
+  {
+    "title": "Deep learning super sampling",
+    "url": "https://en.wikipedia.org/wiki/Deep_learning_super_sampling",
+    "page_details": "15 KB (1,727 words) - 01:02, 29 January 2022",
+    "paragraph": "Deep learning super sampling (DLSS) is a machine-learning and spatial image upscaling technology developed by Nvidia and exclusive to its graphics cards for real-time use in select video games, using deep learning to upscale lower-resolution images to a higher resolution for display on higher-resolution computer monitors. Nvidia claims this technology upscales images with quality similar to that of rendering the image natively in higher resolution but with less computation done by the video card, allowing for higher graphical settings and frame rates for a given resolution.[1]\nAs of June 2021, this technology is available exclusively on GeForce RTX 20 and GeForce RTX 30 series GPUs.\n"
+  },
+  {
+    "title": "Leakage (machine learning)",
+    "url": "https://en.wikipedia.org/wiki/Leakage_(machine_learning)",
+    "page_details": "6 KB (699 words) - 17:38, 24 February 2021",
+    "paragraph": "In statistics and machine learning, leakage (also known as data leakage or target leakage) is the use of information in the model training process which would not be expected to be available at prediction time, causing the predictive scores (metrics) to overestimate the model's utility when run in a production environment.[1]\nLeakage is often subtle and indirect, making it hard to detect and eliminate. Leakage can cause a statistician or modeler to select a suboptimal model, which could be outperformed by a leakage-free model.[1]\n"
+  },
+  {
+    "title": "Machine learning in bioinformatics",
+    "url": "https://en.wikipedia.org/wiki/Machine_learning_in_bioinformatics",
+    "page_details": "78 KB (9,218 words) - 02:28, 30 January 2022",
+    "paragraph": "\nMachine learning in bioinformatics is the application of machine learning algorithms to bioinformatics,[1] including genomics, proteomics, microarrays, systems biology, evolution, and text mining.[2][3]\nPrior to the emergence of machine learning, bioinformatics algorithms had to be programmed by hand; for problems such as protein structure prediction, this proved difficult.[4] Machine learning techniques, such as deep learning can learn features of data sets, instead of requiring the programmer to define them individually. The algorithm can further learn how to combine low-level features into more abstract features, and so on. This multi-layered approach allows such systems to make sophisticated predictions when appropriately trained. These methods contrast with other computational biology approaches which, while exploiting existing datasets, do not allow the data to be interpreted and analyzed in unanticipated ways. In recent years, the size and number of available biological datasets have skyrocketed.[2]\n"
+  },
+  {
+    "title": "Machine Learning (journal)",
+    "url": "https://en.wikipedia.org/wiki/Machine_Learning_(journal)",
+    "page_details": "6 KB (555 words) - 21:49, 6 June 2021",
+    "paragraph": "Machine Learning  is a peer-reviewed scientific journal, published since 1986.\nIn 2001, forty editors and members of the editorial board of Machine Learning resigned in order to support the Journal of Machine Learning Research (JMLR), saying that in the era of the internet, it was detrimental for researchers to continue publishing their papers in expensive journals with pay-access archives. Instead, they wrote, they supported the model of JMLR, in which authors retained copyright over their papers and archives were freely available on the internet.[1]\n"
+  },
+  {
+    "title": "Stochastic gradient descent",
+    "url": "https://en.wikipedia.org/wiki/Stochastic_gradient_descent",
+    "page_details": "33 KB (4,732 words) - 20:02, 9 January 2022",
+    "paragraph": "Stochastic gradient descent (often abbreviated SGD) is an iterative method for optimizing an objective function with suitable smoothness properties (e.g. differentiable or subdifferentiable). It can be regarded as a stochastic approximation of gradient descent optimization, since it replaces the actual gradient (calculated from the entire data set) by an estimate thereof (calculated from a randomly selected subset of the data). Especially in high-dimensional optimization problems this reduces the computational burden, achieving faster iterations in trade for a lower convergence rate.[1]\nWhile the basic idea behind stochastic approximation can be traced back to the Robbins\u2013Monro algorithm of the 1950s, stochastic gradient descent has become an important optimization method in machine learning.[2]\n"
+  },
+  {
+    "title": "Learning curve",
+    "url": "https://en.wikipedia.org/wiki/Learning_curve",
+    "page_details": "29 KB (3,430 words) - 08:58, 31 December 2021",
+    "paragraph": "A learning curve is a graphical representation of the relationship between how proficient someone is at a task and the amount of experience they have. Proficiency (measured on the vertical axis) usually increases with increased experience (the horizontal axis), that is to say, the more someone performs a task, the better their performance at the task.[1]\nThe common expression \"a steep learning curve\" is a misnomer suggesting that an activity is difficult to learn and that expending much effort does not increase proficiency by much, although a learning curve with a steep start actually represents rapid progress.[2][3] In fact, the gradient of the curve has nothing to do with the overall difficulty of an activity, but expresses the expected rate of change of learning speed over time. An activity that it is easy to learn the basics of, but difficulty to gain proficiency in, may be described as having \"a steep learning curve\". \n"
+  },
+  {
+    "title": "Finite-state machine",
+    "url": "https://en.wikipedia.org/wiki/Finite-state_machine",
+    "page_details": "41 KB (4,581 words) - 03:12, 22 January 2022",
+    "paragraph": "A finite-state machine (FSM) or finite-state automaton (FSA, plural: automata), finite automaton, or simply a state machine, is a mathematical model of computation. It is an abstract machine that can be in exactly one of a finite number of states at any given time. The FSM can change from one state to another in response to some inputs; the change from one state to another is called a transition.[1] An FSM is defined by a list of its states, its initial state, and the inputs that trigger each transition. Finite-state machines are of two types\u2014deterministic finite-state machines and non-deterministic finite-state machines.[2] A deterministic finite-state machine can be constructed equivalent to any non-deterministic one.\n"
+  },
+  {
+    "title": "Self-supervised learning",
+    "url": "https://en.wikipedia.org/wiki/Self-supervised_learning",
+    "page_details": "11 KB (1,172 words) - 20:50, 30 January 2022",
+    "paragraph": "Self-supervised learning (SSL) is a method of machine learning. It learns from unlabeled sample data. It can be regarded as an intermediate form between supervised and unsupervised learning. It is based on an artificial neural network.[1] The neural network learns in two steps. First, the task is solved based on pseudo-labels which help to initialize the network weights.[2][3] Second, the actual task is performed with supervised or unsupervised learning.[4][5][6] Self-supervised learning has produced promising results in recent years and has found practical application in audio processing and is being used by Facebook and others for speech recognition.[7] The primary appeal of SSL is that training can occur with data of lower quality, rather than improving ultimate outcomes. Self-supervised learning more closely imitates the way humans learn to classify objects.[8]\nTraining data can be divided into positive examples and negative examples. Positive examples are those that match the target. For example, if you're learning to identify birds, the positive training data are those pictures that contain birds. Negative examples are those that do not.[9]\n"
+  },
+  {
+    "title": "Learning rate",
+    "url": "https://en.wikipedia.org/wiki/Learning_rate",
+    "page_details": "11 KB (1,356 words) - 18:06, 30 January 2022",
+    "paragraph": "In machine learning and statistics, the learning rate is a tuning parameter in an optimization algorithm that determines the step size at each iteration while moving toward a minimum of a loss function.[1] Since it influences to what extent newly acquired information overrides old information, it metaphorically represents the speed at which a machine learning model \"learns\". In the adaptive control literature, the learning rate is commonly referred to as gain.[2]\nIn setting a learning rate, there is a trade-off between the rate of convergence and overshooting. While the descent direction is usually determined from the gradient of the loss function, the learning rate determines how big a step is taken in that direction. A too high learning rate will make the learning jump over minima but a too low learning rate will either take too long to converge or get stuck in an undesirable local minimum.[3]\n"
+  },
+  {
+    "title": "Feature learning",
+    "url": "https://en.wikipedia.org/wiki/Feature_learning",
+    "page_details": "21 KB (2,575 words) - 21:15, 27 January 2022",
+    "paragraph": "In machine learning, feature learning or representation learning[1] is a set of techniques that allows a system to automatically discover the representations needed for feature detection or classification from raw data. This replaces manual feature engineering and allows a machine to both learn the features  and use them to perform  a specific task.\nFeature learning is motivated by the fact that machine learning tasks such as classification often require input that is mathematically and computationally convenient to process. However, real-world data such as images, video, and sensor data has not yielded to attempts to algorithmically define specific features. An alternative is to discover such features or representations through examination, without relying on explicit algorithms.\n"
+  },
+  {
+    "title": "Learning to rank",
+    "url": "https://en.wikipedia.org/wiki/Learning_to_rank",
+    "page_details": "46 KB (3,708 words) - 01:55, 4 February 2022",
+    "paragraph": "Learning to rank[1] or machine-learned ranking (MLR) is the application of machine learning, typically supervised, semi-supervised or reinforcement learning, in the construction of ranking models for information retrieval systems.[2] Training data consists of lists of items with some partial order specified between items in each list. This order is typically induced by giving a numerical or ordinal score or a binary judgment (e.g. \"relevant\" or \"not relevant\") for each item. The ranking model  purposes to rank, i.e. producing a permutation of items in new, unseen lists in a similar way to rankings in the training data.\nRanking is a central part of many information retrieval problems, such as document retrieval, collaborative filtering, sentiment analysis, and online advertising.\n"
+  },
+  {
+    "title": "Perceptron",
+    "url": "https://en.wikipedia.org/wiki/Perceptron",
+    "page_details": "25 KB (3,469 words) - 10:25, 30 January 2022",
+    "paragraph": "In machine learning, the perceptron is an algorithm for supervised learning of binary classifiers.  A binary classifier is a function which can decide whether or not an input, represented by a vector of numbers, belongs to some specific class.[1]  It is a type of linear classifier, i.e. a classification algorithm that makes its predictions based on a linear predictor function combining a set of weights with the feature vector.\nThe perceptron algorithm was invented in 1958 at the Cornell Aeronautical Laboratory by Frank Rosenblatt,[3] funded by the United States Office of Naval Research.[4]\n"
+  },
+  {
+    "title": "Deep reinforcement learning",
+    "url": "https://en.wikipedia.org/wiki/Deep_reinforcement_learning",
+    "page_details": "25 KB (2,761 words) - 17:15, 29 January 2022",
+    "paragraph": "Deep reinforcement learning (deep RL) is a subfield of machine learning that combines reinforcement learning (RL) and deep learning. RL considers the problem of a computational agent learning to make decisions by trial and error. Deep RL incorporates deep learning into the solution, allowing agents to make decisions from unstructured input data without manual engineering of the state space. Deep RL algorithms are able to take in very large inputs (e.g. every pixel rendered to the screen in a video game) and decide what actions to perform to optimize an objective (eg. maximizing the game score). Deep reinforcement learning has been used for a diverse set of applications including but not limited to robotics, video games, natural language processing, computer vision, education, transportation, finance and healthcare.[1]\nDeep learning is a form of machine learning that utilizes a neural network to transform a set of inputs into a set of outputs via an artificial neural network. Deep learning methods, often using supervised learning with labeled datasets, have been shown to solve tasks that involve handling complex, high-dimensional raw input data such as images, with less manual feature engineering than prior methods, enabling significant progress in several fields including computer vision and natural language processing.\n"
+  },
+  {
+    "title": "IBM Machine Learning Hub",
+    "url": "https://en.wikipedia.org/wiki/IBM_Machine_Learning_Hub",
+    "page_details": "3 KB (269 words) - 19:43, 2 July 2021",
+    "paragraph": "The IBM Machine Learning Hub hosts businesses wanting to collaborate with IBM\u2019s machine learning experts. Its mission is to close the gap between available open-source tools and the knowledge required to use them. During three-day workshops, the machine learning experts work with companies to implement initial prototypes. Within the workshops, data scientists use tools like Data Science Experience (DSX) to collaborate and find similar solutions to their use cases. The machine learning experts have completed cases in the travel, energy and utilities, healthcare, financial services, manufacturing, and retail industries. Together, they walk through the stages of the machine learning process to get the concrete results.\nThe Machine Learning Hub's data scientists and machine learning engineers actively contribute to open source projects while also writing academic papers \u2013 continually investigating new avenues of inquiry and sharing their knowledge with the community.\n"
+  },
+  {
+    "title": "Ensemble averaging (machine learning)",
+    "url": "https://en.wikipedia.org/wiki/Ensemble_averaging_(machine_learning)",
+    "page_details": "6 KB (894 words) - 01:37, 30 November 2021",
+    "paragraph": "In machine learning, particularly in the creation of artificial neural networks, ensemble averaging is the process of creating multiple models and combining them to produce a desired output, as opposed to creating just one model. Frequently an ensemble of models performs better than any individual model, because the various errors of the models \"average out.\"\nEnsemble averaging is one of the simplest types of committee machines. Along with boosting, it is one of the two major types of static committee machines.[1] In contrast to standard network design in which many networks are generated but only one is kept, ensemble averaging keeps the less satisfactory networks around, but with less weight.[2] The theory of ensemble averaging relies on two properties of artificial neural networks:[3]\n"
+  },
+  {
+    "title": "Association rule learning",
+    "url": "https://en.wikipedia.org/wiki/Association_rule_learning",
+    "page_details": "48 KB (6,623 words) - 23:30, 4 February 2022",
+    "paragraph": "Association rule learning is a rule-based machine learning method for discovering interesting relations between variables in large databases. It is intended to identify strong rules discovered in databases using some measures of interestingness.[1] In any given transaction with a variety of items, association rules are meant to discover the rules that determine how or why certain items are connected.\nBased on the concept of strong rules, Rakesh Agrawal, Tomasz Imieli\u0144ski and Arun Swami[2] introduced association rules for discovering regularities between products in large-scale transaction data recorded by point-of-sale (POS) systems in supermarkets. For example, the rule \n  \n    \n      \n        {\n        \n          o\n          n\n          i\n          o\n          n\n          s\n          ,\n          p\n          o\n          t\n          a\n          t\n          o\n          e\n          s\n        \n        }\n        \u21d2\n        {\n        \n          b\n          u\n          r\n          g\n          e\n          r\n        \n        }\n      \n    \n    {\\displaystyle \\{\\mathrm {onions,potatoes} \\}\\Rightarrow \\{\\mathrm {burger} \\}}\n  \n found in the sales data of a supermarket would indicate that if a customer buys onions and potatoes together, they are likely to also buy hamburger meat. Such information can be used as the basis for decisions about marketing activities such as, e.g., promotional pricing or product placements.\n"
+  },
+  {
+    "title": "Boltzmann machine",
+    "url": "https://en.wikipedia.org/wiki/Boltzmann_machine",
+    "page_details": "28 KB (3,650 words) - 02:15, 5 February 2022",
+    "paragraph": "A Boltzmann machine (also called Sherrington\u2013Kirkpatrick model with external field or stochastic Ising-Lenz-Little model) is a stochastic spin-glass model with an external field, i.e., a Sherrington\u2013Kirkpatrick model [1], that is a stochastic Ising Model. It is a statistical physics technique applied in the context of cognitive science [2]. It is also classified as stochastic recurrent neural network or the Markov random field.[3]. \nBoltzmann machines are theoretically intriguing because of the locality and Hebbian nature of their training algorithm (being trained by Hebb's rule), and because of their parallelism and the resemblance of their dynamics to simple physical processes.  Boltzmann machines with unconstrained connectivity have not proven useful for practical problems in machine learning or inference, but if the connectivity is properly constrained, the learning can be made efficient enough to be useful for practical problems.[4]\n"
+  },
+  {
+    "title": "Applications of artificial intelligence",
+    "url": "https://en.wikipedia.org/wiki/Applications_of_artificial_intelligence",
+    "page_details": "91 KB (8,625 words) - 14:03, 5 February 2022",
+    "paragraph": "Artificial intelligence (AI) has been used in applications to solve specific problems throughout industry and academia. AI, like electricity or computers, is a general purpose technology that has a multitude of applications. It has enhanced language translation, image recognition, credit scoring, e-commerce and many other domains.[1]\nA recommendation system predicts the \"rating\" or \"preference\" a user would give to an item.[2][3] Recommender systems are used in a variety of areas, such as generating playlists for video and music services, product recommendations for online stores, or content recommendations for social media platforms and open web content recommenders.[4][5]\n"
+  },
+  {
+    "title": "Computational learning theory",
+    "url": "https://en.wikipedia.org/wiki/Computational_learning_theory",
+    "page_details": "8 KB (822 words) - 19:09, 25 January 2022",
+    "paragraph": "In computer science, computational learning theory (or just learning theory) is a subfield of artificial intelligence devoted to studying the design and analysis of machine learning algorithms.[1]\nTheoretical results in machine learning mainly deal with a type of inductive learning called supervised learning.  In supervised learning, an algorithm is given samples that are labeled in some useful way.  For example, the samples might be descriptions of mushrooms, and the labels could be whether or not the mushrooms are edible.  The algorithm takes these previously labeled samples and uses them to induce a classifier.  This classifier is a function that assigns labels to samples, including samples that have not been seen previously by the algorithm.  The goal of the supervised learning algorithm is to optimize some measure of performance such as minimizing the number of mistakes made on new samples.\n"
+  },
+  {
+    "title": "Overfitting",
+    "url": "https://en.wikipedia.org/wiki/Overfitting",
+    "page_details": "20 KB (2,324 words) - 17:30, 2 February 2022",
+    "paragraph": "In statistics, overfitting is \"the production of an analysis that corresponds too closely or exactly to a particular set of data, and may therefore fail to fit additional data or predict future observations reliably\".[1] An overfitted model is a statistical model that contains more parameters than can be justified by the data.[2] The essence of overfitting is to have unknowingly extracted some of the residual variation (i.e., the noise) as if that variation represented underlying model structure.[3]:\u200a45\u200a\nUnderfitting occurs when a statistical model cannot adequately capture the underlying structure of the data. An under-fitted model is a model where some parameters or terms that would appear in a correctly specified model are missing.[2] Under-fitting would occur, for example, when fitting a linear model to non-linear data. Such a model will tend to have poor predictive performance.\n"
+  },
+  {
+    "title": "One-hot",
+    "url": "https://en.wikipedia.org/wiki/One-hot",
+    "page_details": "8 KB (1,084 words) - 13:14, 10 December 2021",
+    "paragraph": "In digital circuits and machine learning, a one-hot is a group of bits among which the legal combinations of values are only those with a single high (1) bit and all the others low (0).[1] A similar implementation in which all bits are '1' except one '0' is sometimes called one-cold.[2] In statistics, dummy variables represent a similar technique for representing categorical data.\n"
+  },
+  {
+    "title": "Margin (machine learning)",
+    "url": "https://en.wikipedia.org/wiki/Margin_(machine_learning)",
+    "page_details": "2 KB (178 words) - 16:10, 30 September 2021",
+    "paragraph": "In machine learning the margin of a single data point is defined to be the distance from the data point to a decision boundary.  Note that there are many distances and decision boundaries that may be appropriate for certain datasets and goals.  A margin classifier is a classifier that explicitly utilizes the margin of each example while learning a classifier.  There are theoretical justifications (based on the VC dimension) as to why maximizing the margin (under some suitable constraints) may be beneficial for machine learning and statistical inferences algorithms.\nThere are many hyperplanes that might classify the data. One reasonable choice as the best hyperplane is the one that represents the largest separation, or margin, between the two classes. So we choose the hyperplane so that the distance from it to the nearest data point on each side is maximized. If such a hyperplane exists, it is known as the maximum-margin hyperplane and the linear classifier it defines is known as a maximum margin classifier; or equivalently, the perceptron of optimal stability.[citation needed]\n"
+  },
+  {
+    "title": "Statistical learning theory",
+    "url": "https://en.wikipedia.org/wiki/Statistical_learning_theory",
+    "page_details": "9 KB (1,460 words) - 21:09, 16 January 2022",
+    "paragraph": "Statistical learning theory is a framework for machine learning\ndrawing from the fields of statistics and functional analysis.[1] [2][3] Statistical learning theory deals with the statistical inference problem of finding a predictive function based on data. Statistical learning theory has led to successful applications in fields such as computer vision, speech recognition, and bioinformatics.\nThe goals of learning are understanding and prediction. Learning falls into many categories, including supervised learning, unsupervised learning, online learning, and reinforcement learning. From the perspective of statistical learning theory, supervised learning is best understood.[4] Supervised learning involves learning from a training set of data. Every point in the training is an input-output pair, where the input maps to an output. The learning problem consists of inferring the function that maps between the input and the output, such that the learned function can be used to predict the output from future input.\n"
+  },
+  {
+    "title": "Artificial intelligence in healthcare",
+    "url": "https://en.wikipedia.org/wiki/Artificial_intelligence_in_healthcare",
+    "page_details": "63 KB (7,420 words) - 06:56, 4 February 2022",
+    "paragraph": "Artificial intelligence in healthcare is an overarching term used to describe the use of machine-learning algorithms and software, or artificial intelligence (AI), to mimic human cognition in the analysis, presentation, and comprehension of complex medical and health care data. Specifically, AI is the ability of computer algorithms to approximate conclusions based solely on input data.\nWhat tells us specifically AI technology from traditional technologies in healthcare is the ability to gather data, process it, and give a well-defined output to the end-user. AI does this through machine learning algorithms and deep learning. These algorithms can recognize patterns in behavior and create their own logic. To gain useful insights and predictions, machine learning models must be trained using extensive amounts of input data. AI algorithms behave differently from humans in two ways: (1) algorithms are literal: once a goal is set, the algorithm learns exclusively from the input data and can only understand what it has been programmed to do, (2) and some deep learning algorithms are black boxes; algorithms can predict with extreme precision, but offer little to no comprehensible explanation to the logic behind its decisions aside from the data and type of algorithm used.[1]\n"
+  },
+  {
+    "title": "Feature extraction",
+    "url": "https://en.wikipedia.org/wiki/Feature_extraction",
+    "page_details": "5 KB (589 words) - 06:41, 20 October 2021",
+    "paragraph": "In machine learning, pattern recognition, and image processing, feature extraction starts from an initial set of measured data and builds derived values (features) intended to be informative and non-redundant, facilitating the subsequent learning and generalization steps, and in some cases leading to better human interpretations. Feature extraction is related to dimensionality reduction.[1]\nWhen the input data to an algorithm is too large to be processed and it is suspected to be redundant (e.g. the same measurement in both feet and meters, or the repetitiveness of images presented as pixels), then it can be transformed into a reduced set of features (also named a feature vector). Determining a subset of the initial features is called feature selection.[2] The selected features are expected to contain the relevant information from the input data, so that the desired task can be performed by using this reduced representation instead of the complete initial data.\n"
+  },
+  {
+    "title": "Pattern recognition",
+    "url": "https://en.wikipedia.org/wiki/Pattern_recognition",
+    "page_details": "34 KB (4,209 words) - 20:51, 10 January 2022",
+    "paragraph": "Pattern recognition is the automated recognition of patterns and regularities in data. It has applications in statistical data analysis, signal processing, image analysis, information retrieval, bioinformatics, data compression, computer graphics and machine learning. Pattern recognition has its origins in statistics and engineering; some modern approaches to pattern recognition include the use of machine learning, due to the increased availability of big data and a new abundance of processing power. These activities can be viewed as two facets of the same field of application, and they have undergone substantial development over the past few decades.\nPattern recognition systems are commonly trained from labeled \"training\" data. When no labeled data are available, other algorithms can be used to discover previously unknown patterns. KDD and data mining have a larger focus on unsupervised methods and stronger connection to business use. Pattern recognition focuses more on the signal and also takes acquisition and Signal Processing into consideration. It originated in engineering, and the term is popular in the context of computer vision: a leading computer vision conference is named Conference on Computer Vision and Pattern Recognition.\n"
+  },
+  {
+    "title": "Data mining",
+    "url": "https://en.wikipedia.org/wiki/Data_mining",
+    "page_details": "44 KB (4,991 words) - 05:22, 28 December 2021",
+    "paragraph": "Data mining is a process of extracting and discovering patterns in large data sets involving methods at the intersection of machine learning, statistics, and database systems.[1] Data mining is an interdisciplinary subfield of computer science and statistics with an overall goal to extract information (with intelligent methods) from a data set and transform the information into a comprehensible structure for further use.[1][2][3][4] Data mining is the analysis step of the \"knowledge discovery in databases\" process, or KDD.[5] Aside from the raw analysis step, it also involves database and data management aspects, data pre-processing, model and inference considerations, interestingness metrics, complexity considerations, post-processing of discovered structures, visualization, and online updating.[1] \nThe term \"data mining\" is a misnomer, because the goal is the extraction of patterns and knowledge from large amounts of data, not the extraction (mining) of data itself.[6] It also is a buzzword[7] and is frequently applied to any form of large-scale data or information processing (collection, extraction, warehousing, analysis, and statistics) as well as any application of computer decision support system, including artificial intelligence (e.g., machine learning) and business intelligence. The book Data mining: Practical machine learning tools and techniques with Java[8] (which covers mostly machine learning material) was originally to be named just Practical machine learning, and the term data mining was only added for marketing reasons.[9] Often the more general terms (large scale) data analysis and analytics\u2014or, when referring to actual methods, artificial intelligence and machine learning\u2014are more appropriate.\n"
+  },
+  {
+    "title": "Long short-term memory",
+    "url": "https://en.wikipedia.org/wiki/Long_short-term_memory",
+    "page_details": "41 KB (4,833 words) - 01:42, 30 January 2022",
+    "paragraph": "Long short-term memory (LSTM) is an artificial recurrent neural network (RNN) architecture[1] used in the field of deep learning. Unlike standard feedforward neural networks, LSTM has feedback connections. It can process not only single data points (such as images), but also entire sequences of data (such as speech or video). For example, LSTM is applicable to tasks such as unsegmented, connected handwriting recognition,[2] speech recognition[3][4] and anomaly detection in network traffic or IDSs (intrusion detection systems).\nA common LSTM unit is composed of a cell, an input gate, an output gate and a forget gate. The cell remembers values over arbitrary time intervals and the three gates regulate the flow of information into and out of the cell.\n"
+  },
+  {
+    "title": "Amazon Web Services",
+    "url": "https://en.wikipedia.org/wiki/Amazon_Web_Services",
+    "page_details": "69 KB (6,234 words) - 02:26, 26 January 2022",
+    "paragraph": "Amazon Web Services, Inc. (AWS) is a subsidiary of Amazon  providing on-demand cloud computing platforms and APIs to individuals, companies, and governments, on a metered pay-as-you-go basis. These cloud computing web services provide a variety of basic abstract technical infrastructure and distributed computing building blocks and tools. One of these services is Amazon Elastic Compute Cloud (EC2), which allows users to have at their disposal a virtual cluster of computers, available all the time, through the Internet. AWS's virtual computers emulate most of the attributes of a real computer, including hardware central processing units (CPUs) and graphics processing units (GPUs) for processing; local/RAM memory; hard-disk/SSD storage; a choice of operating systems; networking; and pre-loaded application software such as web servers, databases, and customer relationship management (CRM).\n"
+  },
+  {
+    "title": "Similarity learning",
+    "url": "https://en.wikipedia.org/wiki/Similarity_learning",
+    "page_details": "10 KB (1,443 words) - 23:11, 14 January 2022",
+    "paragraph": "Similarity learning is an area of supervised machine learning in artificial intelligence. It is closely related to regression and classification, but the goal is to learn a similarity function that measures how similar or related two objects are. It has applications in ranking, in recommendation systems, visual identity tracking, face verification, and speaker verification.\nThere are four common setups for similarity and metric distance learning.\n"
+  },
+  {
+    "title": "Statistical classification",
+    "url": "https://en.wikipedia.org/wiki/Statistical_classification",
+    "page_details": "14 KB (1,739 words) - 06:48, 13 January 2022",
+    "paragraph": "In statistics, classification is the problem of identifying which of a set of categories (sub-populations) an observation (or observations) belongs to.  Examples are assigning a given email to the \"spam\" or \"non-spam\" class, and assigning a diagnosis to a given patient based on observed characteristics of the patient (sex, blood pressure, presence or absence of certain symptoms, etc.).\nOften, the individual observations are analyzed into a set of quantifiable properties, known variously as explanatory variables or features.  These properties may variously be categorical (e.g. \"A\", \"B\", \"AB\" or \"O\", for blood type), ordinal (e.g. \"large\", \"medium\" or \"small\"), integer-valued (e.g. the number of occurrences of a particular word in an email) or real-valued (e.g. a measurement of blood pressure). Other classifiers work by comparing observations to previous observations by means of a similarity or distance function.\n"
+  },
+  {
+    "title": "Journal of Machine Learning Research",
+    "url": "https://en.wikipedia.org/wiki/Journal_of_Machine_Learning_Research",
+    "page_details": "3 KB (291 words) - 06:50, 17 May 2021",
+    "paragraph": "The Journal of Machine Learning Research is a peer-reviewed open access scientific journal covering machine learning. It was established in 2000 and the first editor-in-chief was Leslie Kaelbling.[1] The current editors-in-chief are Francis Bach (Inria), David Blei (Columbia University) and Bernhard Sch\u00f6lkopf (Max Planck Institute for Intelligent Systems).\nThe journal was established as an open-access alternative to the journal Machine Learning. In 2001, forty editorial board members of Machine Learning resigned, saying that in the era of the Internet, it was detrimental for researchers to continue publishing their papers in expensive journals with pay-access archives. The open access model employed by the Journal of Machine Learning Research allows authors to publish articles for free and retain copyright, while archives are freely available online.[2]\n"
+  },
+  {
+    "title": "Instance-based learning",
+    "url": "https://en.wikipedia.org/wiki/Instance-based_learning",
+    "page_details": "3 KB (292 words) - 15:45, 24 May 2021",
+    "paragraph": "In machine learning, instance-based learning (sometimes called memory-based learning[1]) is a family of learning algorithms that, instead of performing explicit generalization, compare new problem instances with instances seen in training, which have been stored in memory. Because computation is postponed until a new instance is observed, these algorithms are sometimes referred to as \"lazy.\"[2]\nIt is called instance-based because it constructs hypotheses directly from the training instances themselves.[3]\nThis means that the hypothesis complexity can grow with the data:[3] in the worst case, a hypothesis is a list of n training items and the computational complexity of classifying a single new instance is O(n). One advantage that instance-based learning has over other methods of machine learning is its ability to adapt its model to previously unseen data. Instance-based learners may simply store a new instance or throw an old instance away.\n"
+  },
+  {
+    "title": "Training, validation, and test sets",
+    "url": "https://en.wikipedia.org/wiki/Training,_validation,_and_test_sets",
+    "page_details": "16 KB (1,944 words) - 17:05, 5 December 2021",
+    "paragraph": "\nIn machine learning, a common task is the study and construction of algorithms that can learn from and make predictions on data.[1] Such algorithms function by making data-driven predictions or decisions,[2] through building a mathematical model from input data. These input data used to build the model are usually divided in multiple data sets. In particular, three data sets are commonly used in different stages of the creation of the model: training, validation and test sets.\n"
+  },
+  {
+    "title": "Incremental learning",
+    "url": "https://en.wikipedia.org/wiki/Incremental_learning",
+    "page_details": "6 KB (549 words) - 06:30, 12 May 2021",
+    "paragraph": "In computer science, incremental learning is a method of machine learning in which input data is continuously used to extend the existing model's knowledge i.e. to further train the model. It represents a dynamic technique of supervised learning and unsupervised learning that can be applied when training data becomes available gradually over time or its size is out of system memory limits. Algorithms that can facilitate incremental learning are known as incremental machine learning algorithms.\nMany traditional machine learning algorithms inherently support incremental learning.\nOther algorithms can be adapted to facilitate incremental learning. \nExamples of incremental algorithms include\ndecision trees\n(IDE4,[1]\nID5R[2]),\ndecision rules,[3]\nartificial neural networks\n(RBF networks,[4]\nLearn++,[5]\nFuzzy ARTMAP,[6]\nTopoART,[7] and\nIGNG[8]) or\nthe incremental SVM.[9]\n"
+  },
+  {
+    "title": "AI accelerator",
+    "url": "https://en.wikipedia.org/wiki/AI_accelerator",
+    "page_details": "29 KB (2,833 words) - 00:35, 2 February 2022",
+    "paragraph": "An AI accelerator is a class of specialized hardware accelerator[1] or computer system[2][3] designed to accelerate artificial intelligence and machine learning applications, including artificial neural networks and machine vision. Typical applications include algorithms for robotics, internet of things, and other data-intensive or sensor-driven tasks.[4] They are often manycore designs and generally focus on low-precision arithmetic, novel dataflow architectures or in-memory computing capability. As of 2018[update], a typical AI integrated circuit chip contains billions of MOSFET transistors.[5]\nA number of vendor-specific terms exist for devices in this category, and it is an emerging technology without a dominant design.\n"
+  },
+  {
+    "title": "Natural language processing",
+    "url": "https://en.wikipedia.org/wiki/Natural_language_processing",
+    "page_details": "49 KB (6,188 words) - 07:52, 30 January 2022",
+    "paragraph": "Natural language processing (NLP) is a subfield of linguistics, computer science, and artificial intelligence concerned with the interactions between computers and human language, in particular how to program computers to process and analyze large amounts of natural language data.  The goal is a computer capable of \"understanding\" the contents of documents, including the contextual nuances of the language within them. The technology can then accurately extract information and insights contained in the documents as well as categorize and organize the documents themselves.\nChallenges in natural language processing frequently involve speech recognition, natural language understanding, and natural language generation.\n"
+  },
+  {
+    "title": "Data compression",
+    "url": "https://en.wikipedia.org/wiki/Data_compression",
+    "page_details": "62 KB (7,017 words) - 13:50, 25 January 2022",
+    "paragraph": "In signal processing, data compression, source coding,[1] or bit-rate reduction is the process of encoding information using fewer bits than the original representation.[2] Any particular compression is either lossy or lossless. Lossless compression reduces bits by identifying and eliminating statistical redundancy. No information is lost in lossless compression. Lossy compression reduces bits by removing unnecessary or less important information.[3] Typically, a device that performs data compression is referred to as an encoder, and one that performs the reversal of the process (decompression) as a decoder.\n"
+  },
+  {
+    "title": "Recurrent neural network",
+    "url": "https://en.wikipedia.org/wiki/Recurrent_neural_network",
+    "page_details": "68 KB (7,663 words) - 00:40, 2 February 2022",
+    "paragraph": "A recurrent neural network (RNN) is a class of artificial neural networks where connections between nodes form a directed or undirected graph along a temporal sequence. This allows it to exhibit temporal dynamic behavior. Derived from feedforward neural networks, RNNs can use their internal state (memory) to process variable length sequences of inputs.[1][2][3] This makes them applicable to tasks such as unsegmented, connected handwriting recognition[4] or speech recognition.[5][6] Recurrent neural networks are theoretically Turing complete and can run arbitrary programs to process arbitrary sequences of inputs.[7]\nThe term \"recurrent neural network\" is used to refer to the class of networks with an infinite impulse response, whereas \"convolutional neural network\" refers to the class of finite impulse response. Both classes of networks exhibit temporal dynamic behavior.[8] A finite impulse recurrent network is a directed acyclic graph that can be unrolled and replaced with a strictly feedforward neural network, while an infinite impulse recurrent network is a directed cyclic graph that can not be unrolled.\n"
+  },
+  {
+    "title": "Probably approximately correct learning",
+    "url": "https://en.wikipedia.org/wiki/Probably_approximately_correct_learning",
+    "page_details": "6 KB (903 words) - 13:48, 30 January 2022",
+    "paragraph": "In computational learning theory, probably approximately correct (PAC) learning is a framework for mathematical analysis of machine learning. It was proposed in 1984 by Leslie Valiant.[1]\nIn this framework, the learner receives samples and must select a generalization function (called the hypothesis) from a certain class of possible functions. The goal is that, with high probability (the \"probably\" part), the selected function will have low generalization error (the \"approximately correct\" part). The learner must be able to learn the concept given any arbitrary approximation ratio, probability of success, or distribution of the samples.\n"
+  },
+  {
+    "title": "Q-learning",
+    "url": "https://en.wikipedia.org/wiki/Q-learning",
+    "page_details": "25 KB (3,400 words) - 14:31, 30 January 2022",
+    "paragraph": "Q-learning is a model-free reinforcement learning algorithm to learn the value of an action in a particular state. It does not require a model of the environment (hence \"model-free\"), and it can handle problems with stochastic transitions and rewards without requiring adaptations.\nFor any finite Markov decision process (FMDP), Q-learning finds an optimal policy in the sense of maximizing the expected value of the total reward over any and all successive steps, starting from the current state.[1] Q-learning can identify an optimal action-selection policy for any given FMDP, given infinite exploration time and a partly-random policy.[1] \"Q\" refers to the function that the algorithm computes \u2013 the expected rewards for an action taken in a given state.[2]\n"
+  },
+  {
+    "title": "Data science",
+    "url": "https://en.wikipedia.org/wiki/Data_science",
+    "page_details": "17 KB (1,758 words) - 14:30, 19 January 2022",
+    "paragraph": "Data science is an interdisciplinary field that uses scientific methods, processes, algorithms and systems to extract knowledge and insights from noisy, structured and unstructured data,[1][2] and apply knowledge and actionable insights from data across a broad range of application domains. Data science is related to data mining, machine learning and big data.\n"
+  },
+  {
+    "title": "Robustness (computer science)",
+    "url": "https://en.wikipedia.org/wiki/Robustness_(computer_science)",
+    "page_details": "10 KB (1,188 words) - 22:19, 28 January 2022",
+    "paragraph": "Collective intelligence\nCollective action\nSelf-organized criticality\nHerd mentality\nPhase transition\nAgent-based modelling\nSynchronization\nAnt colony optimization\nParticle swarm optimization\nSwarm behaviour\nSocial network analysis\nSmall-world networks\nCentrality\nMotifs\nGraph theory\nScaling\nRobustness\nSystems biology\nDynamic networks\n"
+  },
+  {
+    "title": "Multi-armed bandit",
+    "url": "https://en.wikipedia.org/wiki/Multi-armed_bandit",
+    "page_details": "64 KB (7,132 words) - 17:43, 3 February 2022",
+    "paragraph": "In probability theory and machine learning, the multi-armed bandit problem (sometimes called the K-[1] or N-armed bandit problem[2]) is a problem in which a fixed limited set of resources must be allocated between competing (alternative) choices in a way that maximizes their expected gain, when each choice's properties are only partially known at the time of allocation, and may become better understood as time passes or by allocating resources to the choice.[3][4] This is a classic reinforcement learning problem that exemplifies the exploration\u2013exploitation tradeoff dilemma. The name comes from imagining a gambler at a row of slot machines (sometimes known as \"one-armed bandits\"), who has to decide which machines to play, how many times to play each machine and in which order to play them, and whether to continue with the current machine or try a different machine.[5] The multi-armed bandit problem also falls into the broad category of stochastic scheduling.\nIn the problem, each machine provides a random reward from a probability distribution specific to that machine, that is not known a-priori. The objective of the gambler is to maximize the sum of rewards earned through a sequence of lever pulls.[3][4] The crucial tradeoff the gambler faces at each trial is between \"exploitation\" of the machine that has the highest expected payoff and \"exploration\" to get more information about the expected payoffs of the other machines. The trade-off between exploration and exploitation is also faced in machine learning. In practice, multi-armed bandits have been used to model problems such as managing research projects in a large organization, like a science foundation or a pharmaceutical company.[3][4] In early versions of the problem, the gambler begins with no initial knowledge about the machines.\n"
+  },
+  {
+    "title": "Multimodal learning",
+    "url": "https://en.wikipedia.org/wiki/Multimodal_learning",
+    "page_details": "13 KB (3,052 words) - 18:41, 2 February 2022",
+    "paragraph": "Information in the real world usually comes as different modalities. For example, images are usually associated with tags and text explanations; text contains images to more clearly express the main idea of the article. Different modalities are characterized by different statistical properties. For instance, images are usually represented as pixel intensities or outputs of feature extractors, while texts are represented as discrete word count vectors. Due to the distinct statistical properties of different information resources, it is important to discover the relationship between different modalities. Multimodal learning is a good model to represent the joint representations of different modalities. The multimodal learning model is also capable of supplying a missing modality based on observed ones. The multimodal learning model combines two deep Boltzmann machines, each corresponding to one modality. An additional hidden layer is placed on top of the two Boltzmann Machines to produce the joint representation.\nA lot of models/algorithms have been implemented to retrieve and classify a certain type of data, e.g. image or text (where humans who interact with machines can extract images in a form of pictures and text that could be any message etc). However, data usually comes with different modalities (it is the degree to which a system's components may be separated or combined) which carry different information. For example, it is very common to caption an image to convey the information not presented by this image. Similarly, sometimes it is more straightforward to use an image to describe the information which may not be obvious from texts. As a result, if some different words appear in similar images, these words are very likely used to describe the same thing. Conversely, if some words are used in different images, these images may represent the same object. Thus, it is important to invite a novel model which is able to jointly represent the information such that the model can capture the correlation structure between different modalities. Moreover, it should also be able to recover missing modalities given observed ones, e.g. predicting possible image object according to text description. The Multimodal Deep Boltzmann Machine model satisfies the above purposes.\n"
+  },
+  {
+    "title": "Theoretical computer science",
+    "url": "https://en.wikipedia.org/wiki/Theoretical_computer_science",
+    "page_details": "42 KB (4,586 words) - 17:29, 30 January 2022",
+    "paragraph": "Theoretical computer science (TCS) is a subset of general computer science and mathematics that focuses on mathematical aspects of computer science such as the theory of computation, lambda calculus, and type theory.\nIt is difficult to circumscribe the theoretical areas precisely. The ACM's Special Interest Group on Algorithms and Computation Theory (SIGACT) provides the following description:[1]\n"
+  },
+  {
+    "title": "Zero-shot learning",
+    "url": "https://en.wikipedia.org/wiki/Zero-shot_learning",
+    "page_details": "11 KB (1,316 words) - 10:19, 3 February 2022",
+    "paragraph": "Zero-shot learning (ZSL) is a problem setup in machine learning, where at test time, a learner observes samples from classes that were not observed during training, and needs to predict the class they belong to. Zero-shot methods generally work by associating observed and non-observed classes through some form of auxiliary information, which encodes observable distinguishing properties of objects.[1] For example, given a set of images of animals to be classified, along with auxiliary textual descriptions of what animals look like, an AI which has been trained to recognize horses, but has never seen a zebra, can still recognize a zebra if it also knows that zebras look like striped horses. This problem is widely studied in computer vision, natural language processing, and machine perception.[2]\nThe first paper on zero-shot learning in natural language processing appeared in 2008 at the AAAI\u201908, but the name given to the learning paradigm there was dataless classification.[3] The first paper on zero-shot learning in computer vision appeared at the same conference, under the name zero-data learning.[4] This direction was popularized later in another, more well-known, CV paper[5] and the term zero-shot learning caught up, as a take-off on one-shot learning that was introduced in computer vision years earlier.[6]\n"
+  },
+  {
+    "title": "Multiclass classification",
+    "url": "https://en.wikipedia.org/wiki/Multiclass_classification",
+    "page_details": "10 KB (1,215 words) - 11:03, 19 May 2021",
+    "paragraph": "In machine learning, multiclass or multinomial classification is the problem of classifying instances into one of three or more classes (classifying instances into one of two classes is called binary classification).\nWhile many classification algorithms (notably multinomial logistic regression) naturally permit the use of more than two classes, some are by nature binary algorithms; these can, however, be turned into multinomial classifiers by a variety of strategies.\n"
+  },
+  {
+    "title": "CAPTCHA",
+    "url": "https://en.wikipedia.org/wiki/CAPTCHA",
+    "page_details": "36 KB (4,088 words) - 04:56, 28 January 2022",
+    "paragraph": "A CAPTCHA (/k\u00e6p.t\u0283\u0259/, a contrived acronym for \"Completely Automated Public Turing test to tell Computers and Humans Apart\") is a type of challenge\u2013response test used in computing to determine whether the user is human.[1]\n"
+  },
+  {
+    "title": "Logic learning machine",
+    "url": "https://en.wikipedia.org/wiki/Logic_learning_machine",
+    "page_details": "5 KB (650 words) - 20:00, 25 November 2021",
+    "paragraph": "Logic learning machine (LLM) is a machine learning method based on the generation of intelligible rules. LLM is an efficient implementation of the Switching Neural Network (SNN) paradigm,[1] developed by Marco Muselli, Senior Researcher at the Italian National Research Council CNR-IEIIT in Genoa.\nLLM has been employed in many different sectors, including the field of medicine (orthopedic patient classification,[2] DNA micro-array analysis [3] and Clinical Decision Support Systems [4]), financial services and supply chain management.\n"
+  },
+  {
+    "title": "Comparison of deep learning software",
+    "url": "https://en.wikipedia.org/wiki/Comparison_of_deep_learning_software",
+    "page_details": "24 KB (801 words) - 11:34, 28 January 2022",
+    "paragraph": "The following table compares notable software frameworks, libraries and computer programs for deep learning.\n"
+  },
+  {
+    "title": "Multilayer perceptron",
+    "url": "https://en.wikipedia.org/wiki/Multilayer_perceptron",
+    "page_details": "10 KB (1,422 words) - 07:03, 30 January 2022",
+    "paragraph": "A multilayer perceptron (MLP) is a class of feedforward artificial neural network (ANN). The term MLP is used ambiguously, sometimes loosely to mean any feedforward ANN, sometimes strictly to refer to networks composed of multiple layers of perceptrons (with threshold activation); see \u00a7\u00a0Terminology. Multilayer perceptrons are sometimes colloquially referred to as \"vanilla\" neural networks, especially when they have a single hidden layer.[1]\nAn MLP consists of at least three layers of nodes: an input layer, a hidden layer and an output layer. Except for the input nodes, each node is a neuron that uses a nonlinear activation function. MLP utilizes a supervised learning technique called backpropagation for training.[2][3] Its multiple layers and non-linear activation distinguish MLP from a linear perceptron. It can distinguish data that is not linearly separable.[4]\n"
+  },
+  {
+    "title": "Y.3172",
+    "url": "https://en.wikipedia.org/wiki/Y.3172",
+    "page_details": "5 KB (520 words) - 16:20, 16 June 2021",
+    "paragraph": "Y.3172 is an ITU-T Recommendation specifying an architecture for machine learning in future networks including 5G (IMT-2020).[1] The architecture describes a machine learning pipeline in the context of telecommunication networks that involves the training of machine learning models, and also the deployment using methods such as containers and orchestration.[2] \nA set of architectural requirements and specific architectural components needed to satisfy these requirements are presented. This includes i.a., machine learning pipeline as well as machine learning management and orchestration functionalities. Additionally, the standard describes the integration of such components into future networks including IMT-2020 as well as guidelines for applying this architectural framework in a variety of technology-specific underlying networks.[3]\n"
+  },
+  {
+    "title": "Bootstrap aggregating",
+    "url": "https://en.wikipedia.org/wiki/Bootstrap_aggregating",
+    "page_details": "30 KB (3,265 words) - 02:18, 17 December 2021",
+    "paragraph": "Bootstrap aggregating, also called bagging (from bootstrap aggregating), is a machine learning ensemble meta-algorithm designed to improve the stability and accuracy of machine learning algorithms used in statistical classification and regression. It also reduces variance and helps to avoid overfitting. Although it is usually applied to decision tree methods, it can be used with any type of method. Bagging is a special case of the model averaging approach.\nGiven a standard training set \n  \n    \n      \n        D\n      \n    \n    {\\displaystyle D}\n  \n of size n, bagging generates m new training sets \n  \n    \n      \n        \n          D\n          \n            i\n          \n        \n      \n    \n    {\\displaystyle D_{i}}\n  \n, each of size n\u2032, by sampling from D uniformly and with replacement. By sampling with replacement, some observations may be repeated in each \n  \n    \n      \n        \n          D\n          \n            i\n          \n        \n      \n    \n    {\\displaystyle D_{i}}\n  \n. If n\u2032=n, then for large n the set \n  \n    \n      \n        \n          D\n          \n            i\n          \n        \n      \n    \n    {\\displaystyle D_{i}}\n  \n is expected to have the fraction (1 - 1/e) (\u224863.2%) of the unique examples of D, the rest being duplicates.[1] This kind of sample is known as a bootstrap sample. Sampling with replacement ensures each bootstrap is independent from its peers, as it does not depend on previous chosen samples when sampling.   Then, m models  are fitted using the above m bootstrap samples and combined by averaging the output (for regression) or voting (for classification).\n"
+  },
+  {
+    "title": "International Conference on Learning Representations",
+    "url": "https://en.wikipedia.org/wiki/International_Conference_on_Learning_Representations",
+    "page_details": "4 KB (262 words) - 17:58, 1 December 2021",
+    "paragraph": "The International Conference on Learning Representations (ICLR)  is a machine learning conference held every spring. The conference includes invited talks as well as oral and poster presentations of refereed papers. Since its inception in 2013, ICLR has employed an open peer review process to referee paper submissions (based on models proposed by Yann LeCun[1]). In 2019, there were 1591 paper submissions, of which 500 accepted with poster presentations (31%) and 24 with oral presentations (1.5%).[2]. In 2021, there were 2997 paper submissions, of which 860 were accepted (29%).[3].\nAlong with ICML and NeurIPS, ICLR is one of the three major machine learning and artificial intelligence conferences, and has the highest impact of the three.[4]\n"
+  }
+]

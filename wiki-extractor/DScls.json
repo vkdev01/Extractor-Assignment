@@ -1,0 +1,152 @@
+[
+  {
+    "title": "Data science",
+    "url": "https://en.wikipedia.org/wiki/Data_science",
+    "page_details": "17 KB (1,758 words) - 14:30, 19 January 2022",
+    "paragraph": "Data science is an interdisciplinary field that uses scientific methods, processes, algorithms and systems to extract knowledge and insights from noisy, structured and unstructured data,[1][2] and apply knowledge and actionable insights from data across a broad range of application domains. Data science is related to data mining, machine learning and big data.\n"
+  },
+  {
+    "title": "Master in Data Science",
+    "url": "https://en.wikipedia.org/wiki/Master_in_Data_Science",
+    "page_details": "7 KB (724 words) - 17:28, 16 January 2022",
+    "paragraph": "A Master of Science in Data Science is an interdisciplinary degree program designed to provide studies in scientific methods, processes, and systems to extract knowledge or insights from data in various forms, either structured or unstructured,[1][2] similar to data mining.\nAs an area of expertise and field, data science is defined as a \"concept to unify statistics, data analysis and their related methods\" in order to \"understand and analyze actual phenomena\" with data.[3] It employs techniques and theories drawn from many fields within the broad areas of mathematics, statistics, information science, and computer science, in particular from the subdomains of machine learning, statistical classification, cluster analysis, data mining, databases, and visualization.\n"
+  },
+  {
+    "title": "Data type",
+    "url": "https://en.wikipedia.org/wiki/Data_type",
+    "page_details": "23 KB (2,995 words) - 05:12, 2 February 2022",
+    "paragraph": "In computer science and computer programming, a data type or simply type is an attribute of data which tells the compiler or interpreter how the programmer intends to use the data. Most programming languages support basic data types of integer numbers (of varying sizes), floating-point numbers (which approximate real numbers), characters and Booleans. A data type constrains the values that an expression, such as a variable or a function, might take. This data type defines the operations that can be done on the data, the meaning of the data, and the way values of that type can be stored. A data type provides a set of values from which an expression (i.e. variable, function, etc.) may take its values.[1][2]\nData types are used within type systems, which offer various ways of defining, implementing, and using them. Different type systems ensure varying degrees of type safety.\n"
+  },
+  {
+    "title": "Data analysis",
+    "url": "https://en.wikipedia.org/wiki/Data_analysis",
+    "page_details": "82 KB (9,176 words) - 21:11, 4 February 2022",
+    "paragraph": "Finite element\u00a0\u00b7 Boundary element \nLattice Boltzmann\u00a0\u00b7 Riemann solver\nDissipative particle dynamics\nSmoothed particle hydrodynamics\nData analysis is a process of inspecting, cleansing, transforming, and modelling data with the goal of discovering useful information, informing conclusions, and supporting decision-making.[1] Data analysis has multiple facets and approaches, encompassing diverse techniques under a variety of names, and is used in different business, science, and social science domains.[2] In today's business world, data analysis plays a role in making decisions more scientific and helping businesses operate more effectively.[3]\n"
+  },
+  {
+    "title": "Open science data",
+    "url": "https://en.wikipedia.org/wiki/Open_science_data",
+    "page_details": "21 KB (2,468 words) - 13:11, 28 January 2022",
+    "paragraph": "Open science data or Open Research Data is a type of open data focused on publishing observations and results of scientific activities available for anyone to analyze and reuse. A major purpose of the drive for open data is to allow the verification of scientific claims, by allowing others to look at the reproducibility of results,[1] and to allow data from many sources to be integrated to give new knowledge.[2] While the idea of open science data has been actively promoted since the 1950s, the rise of the Internet has significantly lowered the cost and time required to publish or obtain data.\nThe concept of open access to scientific data was institutionally established with the formation of the World Data Center system (now the World Data System), in preparation for the International Geophysical Year of 1957\u20131958.[3]  The International Council of Scientific Unions (now the International Council for Science) established several World Data Centers to minimize the risk of data loss and to maximize data accessibility, further recommending in 1955 that data be made available in machine-readable form.[4]\n"
+  },
+  {
+    "title": "Big data",
+    "url": "https://en.wikipedia.org/wiki/Big_data",
+    "page_details": "122 KB (13,686 words) - 12:14, 1 February 2022",
+    "paragraph": "Big data is a field that treats ways to analyze, systematically extract information from, or otherwise deal with data sets that are too large or complex to be dealt with by traditional data-processing application software. Data with many fields (columns) offer greater statistical power, while data with higher complexity (more attributes or columns) may lead to a higher false discovery rate.[2] Big data analysis challenges include capturing data, data storage, data analysis, search, sharing, transfer, visualization, querying, updating, information privacy, and data source. Big data was originally associated with three key concepts: volume, variety, and velocity.[3] The analysis of big data presents challenges in sampling, and thus previously allowing for only observations and sampling. Therefore, big data often includes data with sizes that exceed the capacity of traditional software to process within an acceptable time and value.\n"
+  },
+  {
+    "title": "Data",
+    "url": "https://en.wikipedia.org/wiki/Data",
+    "page_details": "16 KB (1,901 words) - 02:53, 2 February 2022",
+    "paragraph": "Data (US: /\u02c8d\u00e6t\u0259/; UK: /\u02c8de\u026at\u0259/) are individual facts, statistics, or items of information, often numeric.[1] In a more technical sense, data are a set of values of qualitative or quantitative variables about one or more persons or objects,[1] while a datum (singular of data) is a single value of a single variable.[2]\nAlthough the terms \"data\" and \"information\" are often used interchangeably, this term has distinct meanings. In some popular publications, data are sometimes said to be transformed into information when they are viewed in context or in post-analysis.[3] However, in academic treatments of the subject data are simply units of information. Data are used in scientific research, businesses management (e.g., sales data, revenue, profits, stock price), finance, governance (e.g., crime rates, unemployment rates, literacy rates), and in virtually every other form of human organizational activity (e.g., censuses of the number of homeless people by non-profit organizations).\n"
+  },
+  {
+    "title": "Committee on Data for Science and Technology",
+    "url": "https://en.wikipedia.org/wiki/Committee_on_Data_for_Science_and_Technology",
+    "page_details": "14 KB (1,454 words) - 22:07, 29 August 2021",
+    "paragraph": "The CODATA is the Committee on Data of the International Science Council and was established as ICSU Committee on Data for Science and Technology in 1966.[2]\nCODATA exists to promote global collaboration to advance open science and to improve the availability and usability of data for all areas of research. CODATA supports the principle that data produced by research and susceptible to be used for research should be as open as possible and as closed as necessary. CODATA works also to advance the interoperability and the usability of such data: research data should be FAIR (Findable, Accessible, Interoperable and Reusable).[3] By promoting the policy, technological and cultural changes that are essential to promote open science, CODATA helps advance ISC's vision and mission of advancing science as a global public good.\n"
+  },
+  {
+    "title": "Data structure",
+    "url": "https://en.wikipedia.org/wiki/Data_structure",
+    "page_details": "13 KB (1,495 words) - 13:11, 3 February 2022",
+    "paragraph": "In computer science, a data structure is a data organization, management, and storage format that enables efficient access and modification.[1][2][3] More precisely, a data structure is a collection of data values, the relationships among them, and the functions or operations that can be applied to the data,[4] i.e., it is an algebraic structure about data.\nData structures serve as the basis for abstract data types (ADT). The ADT defines the logical form of the data type. The data structure implements the physical form of the data type.[5]\n"
+  },
+  {
+    "title": "Computer science",
+    "url": "https://en.wikipedia.org/wiki/Computer_science",
+    "page_details": "67 KB (6,601 words) - 15:15, 5 February 2022",
+    "paragraph": "Fundamental areas of computer science include the study of computer programming languages (top left), the design and analysis of algorithms (top right), building intelligent systems (bottom left), and electrical hardware (bottom right).\n"
+  },
+  {
+    "title": "Data visualization",
+    "url": "https://en.wikipedia.org/wiki/Data_visualization",
+    "page_details": "64 KB (5,739 words) - 12:32, 1 February 2022",
+    "paragraph": "Data visualization (often abbreviated data viz[1]) is an interdisciplinary field that deals with the graphic representation of data. It is a particularly efficient way of communicating when the data is numerous as for example a time series.[2]\nFrom an academic point of view, this representation can be considered as a mapping between the original data (usually numerical) and graphic elements[3] (for example, lines or points in a chart). The mapping determines how the attributes of these elements vary according to the data. In this light, a bar chart is a mapping of the length of a bar to a magnitude of a variable. Since the graphic design of the mapping can adversely affect the readability of a chart,[2] mapping is a core competency of Data visualization.[4] \n"
+  },
+  {
+    "title": "International Journal of Population Data Science",
+    "url": "https://en.wikipedia.org/wiki/International_Journal_of_Population_Data_Science",
+    "page_details": "6 KB (503 words) - 22:38, 2 October 2021",
+    "paragraph": "International Journal of Population Data Science, also known as IJPDS, is a peer-reviewed open-access journal publishing original research on issues in population data science and administrative data linkage to advance population study across health, education, environment and other domains. It was established in 2017 in partnership with the International Population Data Linkage Network (IPDLN).[1][2]\nThe journal publishes articles under four categories of population data science: (1) Data use for population impact; (2) Bringing together and analysing data from multiple sources; (3) Identifying population level insights; and (4) Developing safe, privacy-sensitive and ethical infrastructure to support research.[3][4]\n"
+  },
+  {
+    "title": "Open data",
+    "url": "https://en.wikipedia.org/wiki/Open_data",
+    "page_details": "49 KB (5,640 words) - 14:09, 23 January 2022",
+    "paragraph": "Open Data is the idea that some data should be freely available to everyone to use and republish as they wish, without restrictions from copyright, patents or other mechanisms of control.[1] The goals of the open-source data movement are similar to those of other \"open(-source)\" movements such as open-source software, hardware, open content, open specifications, open education, open educational resources, open government, open knowledge, open access, open science, and the open web. Paradoxically, the growth of the open data movement is paralleled by a rise in intellectual property rights.[2] The philosophy behind open data has been long established (for example in the Mertonian tradition of science), but the term \"open data\" itself is recent, gaining popularity with the rise of the Internet and World Wide Web and, especially, with the launch of open-data government initiatives such as Data.gov, Data.gov.uk and Data.gov.in.\n"
+  },
+  {
+    "title": "Data science competition platform",
+    "url": "https://en.wikipedia.org/wiki/Data_science_competition_platform",
+    "page_details": "2 KB (191 words) - 01:48, 8 April 2021",
+    "paragraph": "A data science competition platform is used by businesses to host data science challenges that are hard to solve for one group. Historically, crowdsourcing challenges have been known to solve very complex problems.[1] The Netflix Prize is one such competition. Since then there have been several platforms developed on the idea of data science competitions. Research has been completed on how competition can improve research performance. Companies like J.P. Morgan Chase also run internal contests involving large numbers of employees.[2]\nExamples of data science competition platforms include Bitgrit, Correlation One, Kaggle, InnoCentive, Microprediction, AIcrowd, and Alibaba Tianchi.[3] Alibaba's competition platform which was used in KDD 2017.\n"
+  },
+  {
+    "title": "Geographic information science",
+    "url": "https://en.wikipedia.org/wiki/Geographic_information_science",
+    "page_details": "7 KB (708 words) - 04:57, 28 January 2022",
+    "paragraph": "Geographic information science or geographical information science (GIScience or GISc) is the scientific discipline that studies geographic information, including how it represents phenomena in the real world, how it represents the way humans understand the world, and how it can be captured, organized, and  analyzed. It can be contrasted with geographic information systems (GIS), which are the actual repositories of such data, the software tools for carrying out relevant tasks, and the profession of GIS users. That said, one of the major goals of GIScience is to find practical ways to improve GIS data, software, and professional practice.\nBritish geographer Michael Goodchild defined this area in the 1990s and summarized its core interests, including spatial analysis, visualization, and the representation of uncertainty.[1]  GIScience is conceptually related to geography, information science, computer science, but it claims the status of an independent scientific discipline.[2] Overlapping disciplines are: geocomputation, geoinformatics, geomatics and geovisualization. Other related terms are geographic data science (after data science)[3][4]\nand geographic information science and technology (GISci&T),[5] with job titles geospatial information scientists and technologists.[6]\n"
+  },
+  {
+    "title": "New York University Center for Data Science",
+    "url": "https://en.wikipedia.org/wiki/New_York_University_Center_for_Data_Science",
+    "page_details": "5 KB (482 words) - 22:35, 19 January 2022",
+    "paragraph": "The NYU Center for Data Science (CDS) is a degree-granting graduate institute and research center at New York University. It was established in 2013 by computer scientist Yann LeCun.[1] CDS offers a M.S. in Data Science and, as of 2017, it was one of the first universities in the U.S. to offer a Ph.D. in Data Science.[2]\nCDS's director is Julia Kempe.[3][4]\n"
+  },
+  {
+    "title": "Exploratory data analysis",
+    "url": "https://en.wikipedia.org/wiki/Exploratory_data_analysis",
+    "page_details": "16 KB (1,902 words) - 04:56, 15 November 2021",
+    "paragraph": "In statistics, exploratory data analysis is an approach of analyzing data sets to summarize their main characteristics, often using statistical graphics and other data visualization methods. A statistical model can be used or not, but primarily EDA is for seeing what the data can tell us beyond the formal modeling or hypothesis testing task. Exploratory data analysis has been promoted by John Tukey since 1970 to encourage statisticians to explore the data, and possibly formulate hypotheses that could lead to new data collection and experiments. EDA is different from initial data analysis (IDA),[1] which focuses more narrowly on checking assumptions required for model fitting and hypothesis testing, and handling missing values and making transformations of variables as needed. EDA encompasses IDA.\nTukey defined data analysis in 1961 as: \"Procedures for analyzing data, techniques for interpreting the results of such procedures, ways of planning the gathering of data to make its analysis easier, more precise or more accurate, and all the machinery and results of (mathematical) statistics which apply to analyzing data.\"[2]\n"
+  },
+  {
+    "title": "Graph (abstract data type)",
+    "url": "https://en.wikipedia.org/wiki/Graph_(abstract_data_type)",
+    "page_details": "13 KB (1,508 words) - 05:39, 30 January 2022",
+    "paragraph": "In computer science, a graph is an abstract data type that is meant to implement the undirected graph and directed graph concepts from the field of graph theory within mathematics.\nA graph data structure consists of a finite (and possibly mutable) set of vertices (also called nodes or points), together with a set of unordered pairs of these vertices for an undirected graph or a set of ordered pairs for a directed graph. These pairs are known as edges (also called links or lines), and for a directed graph are also known as edges but also sometimes arrows or arcs. The vertices may be part of the graph structure, or may be external entities represented by integer indices or references.\n"
+  },
+  {
+    "title": "Data wrangling",
+    "url": "https://en.wikipedia.org/wiki/Data_wrangling",
+    "page_details": "14 KB (1,809 words) - 06:18, 26 January 2022",
+    "paragraph": "Data wrangling, sometimes referred to as data munging, is the process of transforming and mapping data from one \"raw\" data form into another format with the intent of making it more appropriate and valuable for a variety of downstream purposes such as analytics. The goal of data wrangling is to assure quality and useful data. Data analysts typically spend the majority of their time in the process of data wrangling compared to the actual analysis of the data.\nThe process of data wrangling may include further munging, data visualization, data aggregation, training a statistical model, as well as many other potential uses. Data wrangling typically follows a set of general steps which begin with extracting the data in a raw form from the data source, \"munging\" the raw data (e.g. sorting) or parsing the data into predefined data structures, and finally depositing the resulting content into a data sink for storage and future use.[1]\n"
+  },
+  {
+    "title": "Data Science Institute",
+    "url": "https://en.wikipedia.org/wiki/Data_Science_Institute",
+    "page_details": "3 KB (341 words) - 08:28, 13 October 2021",
+    "paragraph": "The Data Science Institute is a research institute at the Imperial College London founded in May 2014.[1] The institute is one of five Global Institutes at Imperial College London, alongside the Institute of Global Health Innovation, Energy Futures Lab, Institute for Security Science and Technology, and the Grantham Institute - Climate Change and Environment.[2]\nThe Data Science Institute has partnerships with international industry and academia, with formal investments from Chinese multinational telecoms company Huawei,[3] multinational consultancy KPMG,[4] and Zhejiang University, China.[5]\n"
+  },
+  {
+    "title": "Data Science Africa",
+    "url": "https://en.wikipedia.org/wiki/Data_Science_Africa",
+    "page_details": "3 KB (303 words) - 03:40, 1 June 2020",
+    "paragraph": "Data Science Africa (DSA)[1] is a non-profit knowledge sharing professional group that aims at bringing together leading researchers and practitioners working on data science methods or applications relevant to Africa, and providing training on state of the art data science methods to students and others interested in developing practical skills. Since 2013, DSA has been organizing conference, workshops and summer schools on machine learning and data science across East Africa. Facilitators of Summer School and workshops are researchers and practitioners from the academia, private and public institutions across the world.\n"
+  },
+  {
+    "title": "Data Matrix",
+    "url": "https://en.wikipedia.org/wiki/Data_Matrix",
+    "page_details": "20 KB (2,355 words) - 13:29, 18 January 2022",
+    "paragraph": "A Data Matrix is a two-dimensional code consisting of black and white \"cells\" or dots arranged in either a square or rectangular pattern, also known as a matrix. The information to be encoded can be text or numeric data. Usual data size is from a few bytes up to 1556 bytes. The length of the encoded data depends on the number of cells in the matrix. Error correction codes are often used to increase reliability: even if one or more cells are damaged so it is unreadable, the message can still be read. A Data Matrix symbol can store up to 2,335 alphanumeric characters.\n"
+  },
+  {
+    "title": "The Center of Applied Data Science",
+    "url": "https://en.wikipedia.org/wiki/The_Center_of_Applied_Data_Science",
+    "page_details": "11 KB (1,134 words) - 23:53, 22 January 2022",
+    "paragraph": "The Center of Applied Data Science (CADS) is a private company established in Malaysia in October 2015. CADS's professed purpose is to nurture a new generation of data scientists and data professionals through programs that focus on solving real business challenges.[1]\nCADS was founded by Sharala Axryd, a Malaysian entrepreneur; her unusual position as a female CEO was noted by several publications.[2][3][4][5]\n"
+  },
+  {
+    "title": "Mathematical sciences",
+    "url": "https://en.wikipedia.org/wiki/Mathematical_sciences",
+    "page_details": "3 KB (262 words) - 03:26, 18 September 2021",
+    "paragraph": "The mathematical sciences are a group of areas of study that includes, in addition to mathematics, those academic disciplines that are primarily mathematical in nature but may not be universally considered subfields of mathematics proper.\nStatistics, for example, is mathematical in its methods but grew out of scientific observations[1] which merged with inverse probability and grew through applications in the social sciences, some areas of physics, and biometrics to become its own separate, though closely allied field. Computer science, computational science, data science, quantitative biology, operations research, control theory, cryptology, econometrics, theoretical physics, continuum mechanics, mathematical chemistry and actuarial science are other fields that may be considered part of mathematical sciences.\n"
+  },
+  {
+    "title": "Women in Data Science Initiative",
+    "url": "https://en.wikipedia.org/wiki/Women_in_Data_Science_Initiative",
+    "page_details": "5 KB (508 words) - 17:09, 17 January 2022",
+    "paragraph": "Founded in 2015 at Stanford University, California by Dr. Margot Gerritsen and Karen Matthys, the Women in Data Science Initiative (WiDs) encourages women from around the world to connect with one another, to form local and regional networks, and to promote an inclusive and diverse community within the rapidly expanding field of data science.[1]\nFrom problems with facial recognition technologies that do not recognize darker-skinned faces to predictive policing algorithms that misidentify threats and intensify surveillance in communities of color, the effects of the lack of diversity in data science are numerous. Biased data sets may result in additional forms of discrimination. When an early attempt to design a computer program to help with hiring decisions relied mainly on resumes from men, the program \"taught itself that male candidates were preferable to women.\"[2] While Amazon immediately recognized this tendency and never used the program to evaluate job candidates, this example shows that relying on biased data may perpetuate inequalities. According to Gerritsen, \u201cWe cannot let these algorithms and these approaches of data-driven decision making really play the significant role that they are starting to play in our society at large if we do not really understand the ethics.\u201d[3] \n"
+  }
+]

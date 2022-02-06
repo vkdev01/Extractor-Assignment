@@ -1,0 +1,152 @@
+[
+  {
+    "title": "Deep learning",
+    "url": "https://en.wikipedia.org/wiki/Deep_learning",
+    "page_details": "145 KB (14,363 words) - 03:50, 31 January 2022",
+    "paragraph": "Deep learning  (also known as deep structured learning) is part of a broader family of machine learning methods based on artificial neural networks with representation learning. Learning can be supervised, semi-supervised or unsupervised.[2][3][4]\nDeep-learning architectures such as deep neural networks, deep belief networks, deep reinforcement learning, recurrent neural networks and convolutional neural networks have been applied to fields including computer vision, speech recognition, natural language processing, machine translation, bioinformatics, drug design, medical image analysis, material inspection and board game programs, where they have produced results comparable to and in some cases surpassing human expert performance.[5][6][7][8]\n"
+  },
+  {
+    "title": "Deep reinforcement learning",
+    "url": "https://en.wikipedia.org/wiki/Deep_reinforcement_learning",
+    "page_details": "25 KB (2,761 words) - 17:15, 29 January 2022",
+    "paragraph": "Deep reinforcement learning (deep RL) is a subfield of machine learning that combines reinforcement learning (RL) and deep learning. RL considers the problem of a computational agent learning to make decisions by trial and error. Deep RL incorporates deep learning into the solution, allowing agents to make decisions from unstructured input data without manual engineering of the state space. Deep RL algorithms are able to take in very large inputs (e.g. every pixel rendered to the screen in a video game) and decide what actions to perform to optimize an objective (eg. maximizing the game score). Deep reinforcement learning has been used for a diverse set of applications including but not limited to robotics, video games, natural language processing, computer vision, education, transportation, finance and healthcare.[1]\nDeep learning is a form of machine learning that utilizes a neural network to transform a set of inputs into a set of outputs via an artificial neural network. Deep learning methods, often using supervised learning with labeled datasets, have been shown to solve tasks that involve handling complex, high-dimensional raw input data such as images, with less manual feature engineering than prior methods, enabling significant progress in several fields including computer vision and natural language processing.\n"
+  },
+  {
+    "title": "Deep learning super sampling",
+    "url": "https://en.wikipedia.org/wiki/Deep_learning_super_sampling",
+    "page_details": "15 KB (1,727 words) - 01:02, 29 January 2022",
+    "paragraph": "Deep learning super sampling (DLSS) is a machine-learning and spatial image upscaling technology developed by Nvidia and exclusive to its graphics cards for real-time use in select video games, using deep learning to upscale lower-resolution images to a higher resolution for display on higher-resolution computer monitors. Nvidia claims this technology upscales images with quality similar to that of rendering the image natively in higher resolution but with less computation done by the video card, allowing for higher graphical settings and frame rates for a given resolution.[1]\nAs of June 2021, this technology is available exclusively on GeForce RTX 20 and GeForce RTX 30 series GPUs.\n"
+  },
+  {
+    "title": "Q-learning",
+    "url": "https://en.wikipedia.org/wiki/Q-learning",
+    "page_details": "25 KB (3,400 words) - 14:31, 30 January 2022",
+    "paragraph": "Q-learning is a model-free reinforcement learning algorithm to learn the value of an action in a particular state. It does not require a model of the environment (hence \"model-free\"), and it can handle problems with stochastic transitions and rewards without requiring adaptations.\nFor any finite Markov decision process (FMDP), Q-learning finds an optimal policy in the sense of maximizing the expected value of the total reward over any and all successive steps, starting from the current state.[1] Q-learning can identify an optimal action-selection policy for any given FMDP, given infinite exploration time and a partly-random policy.[1] \"Q\" refers to the function that the algorithm computes \u2013 the expected rewards for an action taken in a given state.[2]\n"
+  },
+  {
+    "title": "Deeper learning",
+    "url": "https://en.wikipedia.org/wiki/Deeper_learning",
+    "page_details": "22 KB (2,542 words) - 13:15, 19 April 2021",
+    "paragraph": "In U.S. education, deeper learning is a set of student educational outcomes including acquisition of robust core academic content, higher-order thinking skills, and learning dispositions. Deeper learning is based on the premise that the nature of work, civic, and everyday life is changing and therefore increasingly requires that formal education provides young people with mastery of skills like analytic reasoning, complex problem solving, and teamwork.\nDeeper learning is associated with a growing movement in U.S. education that places special emphasis on the ability to apply knowledge to real-world circumstances and to solve novel problems.[1]\n"
+  },
+  {
+    "title": "Comparison of deep learning software",
+    "url": "https://en.wikipedia.org/wiki/Comparison_of_deep_learning_software",
+    "page_details": "24 KB (801 words) - 11:34, 28 January 2022",
+    "paragraph": "The following table compares notable software frameworks, libraries and computer programs for deep learning.\n"
+  },
+  {
+    "title": "Machine learning",
+    "url": "https://en.wikipedia.org/wiki/Machine_learning",
+    "page_details": "99 KB (11,262 words) - 02:37, 4 February 2022",
+    "paragraph": "Machine learning (ML) is the study of computer algorithms that can improve automatically through experience and by the use of data.[1] It is seen as a part of artificial intelligence. Machine learning algorithms build a model based on sample data, known as training data, in order to make predictions or decisions without being explicitly programmed to do so.[2] Machine learning algorithms are used in a wide variety of applications, such as in medicine, email filtering, speech recognition, and computer vision, where it is difficult or unfeasible to develop conventional algorithms to perform the needed tasks.[3]\nA subset of machine learning is closely related to computational statistics, which focuses on making predictions using computers; but not all machine learning is statistical learning. The study of mathematical optimization delivers methods, theory and application domains to the field of machine learning. Data mining is a related field of study, focusing on exploratory data analysis through unsupervised learning.[5][6] Some implementations of machine learning use data and neural networks in a way that mimics the working of a biological brain.[7][8]  In its application across business problems, machine learning is also referred to as predictive analytics.\n"
+  },
+  {
+    "title": "Reinforcement learning",
+    "url": "https://en.wikipedia.org/wiki/Reinforcement_learning",
+    "page_details": "45 KB (5,458 words) - 03:19, 5 February 2022",
+    "paragraph": "Reinforcement learning (RL) is an area of machine learning concerned with how intelligent agents ought to take actions in an environment in order to maximize the notion of cumulative reward. Reinforcement learning is one of three basic machine learning paradigms, alongside supervised learning and unsupervised learning.\nReinforcement learning differs from supervised learning in not needing labelled input/output pairs be presented, and in not needing sub-optimal actions to be explicitly corrected. Instead the focus is on finding a balance between exploration (of uncharted territory) and exploitation (of current knowledge).[1] Partially supervised RL algorithms can combine the advantages of supervised and RL algorithms.[2]\n"
+  },
+  {
+    "title": "Layer (deep learning)",
+    "url": "https://en.wikipedia.org/wiki/Layer_(deep_learning)",
+    "page_details": "6 KB (497 words) - 14:09, 5 May 2021",
+    "paragraph": "A layer in a deep learning model is a structure or network topology in the architecture of the model, which take information from the previous layers and then pass information to the next layer. There are several famous layers in deep learning, namely convolutional layer[1] and maximum pooling layer[2][3] in the convolutional neural network. Fully connected layer and ReLU layer in vanilla neural network. RNN layer in the RNN model[4][5][6] and deconvolutional layer in autoencoder etc.\nThere is an intrinsic difference between deep learning layering and neocortical layering: deep learning layering depends on network topology, while neocortical layering depends on intra-layers homogeneity.\n"
+  },
+  {
+    "title": "Deep learning processor",
+    "url": "https://en.wikipedia.org/wiki/Deep_learning_processor",
+    "page_details": "22 KB (2,251 words) - 23:26, 20 January 2022",
+    "paragraph": "A deep learning processor (DLP), or a deep learning accelerator, is an electronic circuit designed for deep learning algorithms, usually with separate data memory and dedicated instruction set architecture. Deep learning processors  range from mobile devices, such as neural processing units (NPUs) in Huawei cellphones,[1]\nto cloud computing servers such as tensor processing units (TPU) in the Google Cloud Platform.[2] \nThe goal of DLPs is to provide higher efficiency and performance for deep learning algorithms than general central processing unit (CPUs) and graphics processing units (GPUs) would. Most DLPs employ a large number of computing components to leverage high data-level parallelism, a relatively larger on-chip buffer/memory to leverage the data reuse patterns, and limited data-width operators for error-resilience of deep learning.\n"
+  },
+  {
+    "title": "Artificial neural network",
+    "url": "https://en.wikipedia.org/wiki/Artificial_neural_network",
+    "page_details": "92 KB (10,416 words) - 16:39, 3 February 2022",
+    "paragraph": "Collective intelligence\nCollective action\nSelf-organized criticality\nHerd mentality\nPhase transition\nAgent-based modelling\nSynchronization\nAnt colony optimization\nParticle swarm optimization\nSwarm behaviour\nSocial network analysis\nSmall-world networks\nCentrality\nMotifs\nGraph theory\nScaling\nRobustness\nSystems biology\nDynamic networks\n"
+  },
+  {
+    "title": "Artificial intelligence",
+    "url": "https://en.wikipedia.org/wiki/Artificial_intelligence",
+    "page_details": "177 KB (17,566 words) - 04:18, 3 February 2022",
+    "paragraph": "\nArtificial intelligence (AI) is intelligence demonstrated by machines, as opposed to natural intelligence displayed by animals including humans.\nLeading AI textbooks define the field as the study of \"intelligent agents\": any system that perceives its environment and takes actions that maximize its chance of achieving its goals.[a]\nSome popular accounts use the term \"artificial intelligence\" to describe machines that mimic \"cognitive\" functions that humans associate with the human mind, such as \"learning\" and \"problem solving\", however, this definition is rejected by major AI researchers.[b]\n"
+  },
+  {
+    "title": "Federated learning",
+    "url": "https://en.wikipedia.org/wiki/Federated_learning",
+    "page_details": "40 KB (4,896 words) - 00:19, 30 January 2022",
+    "paragraph": "Federated learning (also known as collaborative learning) is a machine learning technique that trains an algorithm across multiple decentralized edge devices or servers holding local data samples, without exchanging them. This approach stands in contrast to traditional centralized machine learning techniques where all the local datasets are uploaded to one server, as well as to more classical decentralized approaches which often assume that local data samples are identically distributed.\nFederated learning enables multiple actors to build a common, robust machine learning model without sharing data, thus allowing to address critical issues such as data privacy, data security, data access rights and access to heterogeneous data. Its applications are spread over a number of industries including defense, telecommunications, IoT, and pharmaceutics.\n"
+  },
+  {
+    "title": "Transformer (machine learning model)",
+    "url": "https://en.wikipedia.org/wiki/Transformer_(machine_learning_model)",
+    "page_details": "23 KB (2,807 words) - 14:52, 1 February 2022",
+    "paragraph": "A transformer is a deep learning model that adopts the mechanism of self-attention, differentially weighting the significance of each part of the input data. It is used primarily in the field of natural language processing (NLP)[1] and in computer vision (CV).[2]\nLike recurrent neural networks (RNNs), transformers are designed to handle sequential input data, such as natural language, for tasks such as translation and text summarization. However, unlike RNNs, transformers do not necessarily process the data in order. Rather, the attention mechanism provides context for any position in the input sequence. For example, if the input data is a natural language sentence, the transformer does not need to process the beginning of the sentence before the end. Rather, it identifies the context that confers meaning to each word in the sentence. This feature allows for more parallelization than RNNs and therefore reduces training times.[1]\n"
+  },
+  {
+    "title": "DeepMind",
+    "url": "https://en.wikipedia.org/wiki/DeepMind",
+    "page_details": "53 KB (5,145 words) - 04:42, 5 February 2022",
+    "paragraph": "DeepMind Technologies is a British artificial intelligence subsidiary of Alphabet Inc. and research laboratory founded in September 2010. DeepMind was acquired by Google[4] in 2014. The company is based in London, with research centres in Canada,[5] France,[6] and the United States. In 2015, it became a wholly owned subsidiary of Alphabet Inc, Google's parent company.\n"
+  },
+  {
+    "title": "Nervana Systems",
+    "url": "https://en.wikipedia.org/wiki/Nervana_Systems",
+    "page_details": "6 KB (513 words) - 10:21, 7 July 2020",
+    "paragraph": "Nervana Systems is an artificial intelligence software company based in San Diego, California, and Palo Alto, California.[1]  The company provides a full-stack software-as-a-service platform called Nervana Cloud that enables businesses to develop custom deep learning software.[2] On August 9, 2016, it was acquired by Intel, for an estimated $408 million.[3][4]\nThe company's (now discontinued) open source deep learning framework is called neon.[5] Neon\u00a0\u2013  which the company says outperforms rival frameworks such as Caffe, Theano, Torch, and TensorFlow[5] \u2013 achieves its performance advantage through assembler-level optimization, multi-GPU support, and use of an algorithm called Winograd for computing convolutions, which are common mathematical operations in the deep learning process.[6]\n"
+  },
+  {
+    "title": "Deep belief network",
+    "url": "https://en.wikipedia.org/wiki/Deep_belief_network",
+    "page_details": "10 KB (1,244 words) - 19:28, 17 March 2021",
+    "paragraph": "In machine learning, a deep belief network (DBN) is a generative graphical model, or alternatively a class of deep neural network, composed of multiple layers of latent variables (\"hidden units\"), with connections between the layers but not between units within each layer.[1]\nWhen trained on a set of examples without supervision, a DBN can learn to probabilistically reconstruct its inputs. The layers then act as feature detectors.[1] After this learning step, a DBN can be further trained with supervision to perform classification.[2]\n"
+  },
+  {
+    "title": "Learning rate",
+    "url": "https://en.wikipedia.org/wiki/Learning_rate",
+    "page_details": "11 KB (1,356 words) - 18:06, 30 January 2022",
+    "paragraph": "In machine learning and statistics, the learning rate is a tuning parameter in an optimization algorithm that determines the step size at each iteration while moving toward a minimum of a loss function.[1] Since it influences to what extent newly acquired information overrides old information, it metaphorically represents the speed at which a machine learning model \"learns\". In the adaptive control literature, the learning rate is commonly referred to as gain.[2]\nIn setting a learning rate, there is a trade-off between the rate of convergence and overshooting. While the descent direction is usually determined from the gradient of the loss function, the learning rate determines how big a step is taken in that direction. A too high learning rate will make the learning jump over minima but a too low learning rate will either take too long to converge or get stuck in an undesirable local minimum.[3]\n"
+  },
+  {
+    "title": "DeepDream",
+    "url": "https://en.wikipedia.org/wiki/DeepDream",
+    "page_details": "13 KB (1,261 words) - 20:49, 30 December 2021",
+    "paragraph": "DeepDream is a computer vision program created by Google engineer Alexander Mordvintsev that uses a convolutional neural network to find and enhance patterns in images via algorithmic pareidolia, thus creating a dream-like psychedelic appearance in the deliberately over-processed images.[1][2][3]\nGoogle's program popularized the term (deep) \"dreaming\" to refer to the generation of images that produce desired activations in a trained deep network, and the term now refers to a collection of related approaches.\n"
+  },
+  {
+    "title": "Nvidia",
+    "url": "https://en.wikipedia.org/wiki/Nvidia",
+    "page_details": "80 KB (7,736 words) - 15:30, 1 February 2022",
+    "paragraph": ".mw-parser-output .geo-default,.mw-parser-output .geo-dms,.mw-parser-output .geo-dec{display:inline}.mw-parser-output .geo-nondefault,.mw-parser-output .geo-multi-punct{display:none}.mw-parser-output .longitude,.mw-parser-output .latitude{white-space:nowrap}37\u00b022\u203214.62\u2033N 121\u00b057\u203249.46\u2033W\ufeff / \ufeff37.3707278\u00b0N 121.9637389\u00b0W\ufeff / 37.3707278; -121.9637389\n\nNvidia Corporation[note 1] (/\u025bn\u02c8v\u026adi\u0259/ en-VID-ee-\u0259) is an American multinational technology company incorporated in Delaware and based in Santa Clara, California.[2] It designs graphics processing units (GPUs) for the gaming and professional markets, as well as system on a chip units (SoCs) for the mobile computing and automotive market. Its primary GPU line, labeled \"GeForce\", is in direct competition with the GPUs of the \"Radeon\" brand by Advanced Micro Devices (AMD). Nvidia expanded its presence in the gaming industry with its handheld game consoles Shield Portable, Shield Tablet, and Shield Android TV and its cloud gaming service GeForce Now. Its professional line of GPUs are used in workstations for applications in such fields as architecture, engineering and construction, media and entertainment, automotive, scientific research, and manufacturing design.[3]\n"
+  },
+  {
+    "title": "List of datasets for machine-learning research",
+    "url": "https://en.wikipedia.org/wiki/List_of_datasets_for_machine-learning_research",
+    "page_details": "258 KB (15,862 words) - 10:19, 3 February 2022",
+    "paragraph": "These datasets are applied for machine-learning research and have been cited in peer-reviewed academic journals. Datasets are an integral part of the field of machine learning. Major advances in this field can result from advances in learning algorithms (such as deep learning), computer hardware, and, less-intuitively, the availability of high-quality training datasets.[1] High-quality labeled training datasets for supervised and semi-supervised machine learning algorithms are usually difficult and expensive to produce because of the large amount of time needed to label the data. Although they do not need to be labeled, high-quality datasets for unsupervised learning can also be difficult and costly to produce.[2][3][4][5]\n"
+  },
+  {
+    "title": "Deepfake",
+    "url": "https://en.wikipedia.org/wiki/Deepfake",
+    "page_details": "101 KB (9,335 words) - 17:20, 29 January 2022",
+    "paragraph": "Deepfakes (a portmanteau of \"deep learning\" and \"fake\"[1]) are synthetic media[2] in which a person in an existing image or video is replaced with someone else's likeness. While the act of faking content is not new, deepfakes leverage powerful techniques from machine learning and artificial intelligence to manipulate or generate visual and audio content with a high potential to deceive.[3] The main machine learning methods used to create deepfakes are based on deep learning and involve training generative neural network architectures, such as autoencoders[3]  or generative adversarial networks (GANs).[4][5]\n"
+  },
+  {
+    "title": "AI accelerator",
+    "url": "https://en.wikipedia.org/wiki/AI_accelerator",
+    "page_details": "29 KB (2,833 words) - 00:35, 2 February 2022",
+    "paragraph": "An AI accelerator is a class of specialized hardware accelerator[1] or computer system[2][3] designed to accelerate artificial intelligence and machine learning applications, including artificial neural networks and machine vision. Typical applications include algorithms for robotics, internet of things, and other data-intensive or sensor-driven tasks.[4] They are often manycore designs and generally focus on low-precision arithmetic, novel dataflow architectures or in-memory computing capability. As of 2018[update], a typical AI integrated circuit chip contains billions of MOSFET transistors.[5]\nA number of vendor-specific terms exist for devices in this category, and it is an emerging technology without a dominant design.\n"
+  },
+  {
+    "title": "Recurrent neural network",
+    "url": "https://en.wikipedia.org/wiki/Recurrent_neural_network",
+    "page_details": "68 KB (7,663 words) - 00:40, 2 February 2022",
+    "paragraph": "A recurrent neural network (RNN) is a class of artificial neural networks where connections between nodes form a directed or undirected graph along a temporal sequence. This allows it to exhibit temporal dynamic behavior. Derived from feedforward neural networks, RNNs can use their internal state (memory) to process variable length sequences of inputs.[1][2][3] This makes them applicable to tasks such as unsegmented, connected handwriting recognition[4] or speech recognition.[5][6] Recurrent neural networks are theoretically Turing complete and can run arbitrary programs to process arbitrary sequences of inputs.[7]\nThe term \"recurrent neural network\" is used to refer to the class of networks with an infinite impulse response, whereas \"convolutional neural network\" refers to the class of finite impulse response. Both classes of networks exhibit temporal dynamic behavior.[8] A finite impulse recurrent network is a directed acyclic graph that can be unrolled and replaced with a strictly feedforward neural network, while an infinite impulse recurrent network is a directed cyclic graph that can not be unrolled.\n"
+  },
+  {
+    "title": "Long short-term memory",
+    "url": "https://en.wikipedia.org/wiki/Long_short-term_memory",
+    "page_details": "41 KB (4,833 words) - 01:42, 30 January 2022",
+    "paragraph": "Long short-term memory (LSTM) is an artificial recurrent neural network (RNN) architecture[1] used in the field of deep learning. Unlike standard feedforward neural networks, LSTM has feedback connections. It can process not only single data points (such as images), but also entire sequences of data (such as speech or video). For example, LSTM is applicable to tasks such as unsegmented, connected handwriting recognition,[2] speech recognition[3][4] and anomaly detection in network traffic or IDSs (intrusion detection systems).\nA common LSTM unit is composed of a cell, an input gate, an output gate and a forget gate. The cell remembers values over arbitrary time intervals and the three gates regulate the flow of information into and out of the cell.\n"
+  }
+]

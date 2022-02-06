@@ -1,0 +1,152 @@
+[
+  {
+    "title": "Algorithm",
+    "url": "https://en.wikipedia.org/wiki/Algorithm",
+    "page_details": "110 KB (14,048 words) - 00:06, 31 January 2022",
+    "paragraph": "In mathematics and computer science, an algorithm (/\u02c8\u00e6l\u0261\u0259r\u026a\u00f0\u0259m/ (listen)) is a finite sequence of well-defined instructions, typically used to solve a class of specific problems or to perform a computation.[1] Algorithms are used as specifications for performing calculations, data processing, automated reasoning, automated decision-making and other tasks. In contrast, a heuristic is an approach to problem solving that may not be fully specified or may not guarantee correct or optimal results, especially in problem domains where there is no well-defined correct or optimal result.[2]\n"
+  },
+  {
+    "title": "Sorting algorithm",
+    "url": "https://en.wikipedia.org/wiki/Sorting_algorithm",
+    "page_details": "61 KB (5,813 words) - 23:00, 6 December 2021",
+    "paragraph": "In computer science, a sorting algorithm is an algorithm that puts elements of a list into an order. The most frequently used orders are numerical order and lexicographical order, and either ascending or descending. Efficient sorting is important for optimizing the efficiency of other algorithms (such as search and merge algorithms) that require input data to be in sorted lists. Sorting is also often useful for canonicalizing data and for producing human-readable output.\nFormally, the output of any sorting algorithm must satisfy two conditions:\n"
+  },
+  {
+    "title": "The Algorithm",
+    "url": "https://en.wikipedia.org/wiki/The_Algorithm",
+    "page_details": "11 KB (1,160 words) - 15:07, 3 February 2022",
+    "paragraph": "The Algorithm is the musical project of French musician R\u00e9mi Gallego (born 7 October 1989) from Perpignan. His style is characterised by an unusual combination of electronic dance music with progressive metal.[citation needed] Gallego chose the name The Algorithm to highlight the music's complex and electronic nature.[1]\n"
+  },
+  {
+    "title": "Dijkstra's algorithm",
+    "url": "https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm",
+    "page_details": "46 KB (5,837 words) - 16:02, 20 January 2022",
+    "paragraph": "Dijkstra's algorithm (/\u02c8da\u026akstr\u0259z/ DYKE-str\u0259z) is an algorithm for finding the shortest paths between nodes in a graph, which may represent, for example, road networks.  It was conceived by computer scientist Edsger W. Dijkstra in 1956 and published three years later.[4][5][6]\n"
+  },
+  {
+    "title": "Ramer\u2013Douglas\u2013Peucker algorithm",
+    "url": "https://en.wikipedia.org/wiki/Ramer%E2%80%93Douglas%E2%80%93Peucker_algorithm",
+    "page_details": "10 KB (1,165 words) - 18:54, 4 January 2022",
+    "paragraph": "The Ramer\u2013Douglas\u2013Peucker algorithm, also known as the Douglas\u2013Peucker algorithm and iterative end-point fit algorithm, is an algorithm that decimates a curve composed of line segments to a similar curve with fewer points. It was one of the earliest successful algorithms developed for cartographic generalization.\nThe purpose of the algorithm is, given a curve composed of line segments (which is also called a Polyline in some contexts), to find a similar curve with fewer points.  The algorithm defines 'dissimilar' based on the maximum distance between the original curve and the simplified curve (i.e., the Hausdorff distance between the curves).  The simplified curve consists of a subset of the points that defined the original curve.\n"
+  },
+  {
+    "title": "A* search algorithm",
+    "url": "https://en.wikipedia.org/wiki/A*_search_algorithm",
+    "page_details": "35 KB (4,439 words) - 20:25, 13 December 2021",
+    "paragraph": "A* (pronounced \"A-star\") is a graph traversal and path search algorithm, which is often used in many fields of computer science due to its completeness, optimality, and optimal efficiency.[1] One major practical drawback is its \n  \n    \n      \n        O\n        (\n        \n          b\n          \n            d\n          \n        \n        )\n      \n    \n    {\\displaystyle O(b^{d})}\n  \n space complexity, as it stores all generated nodes in memory. Thus, in practical travel-routing systems, it is generally outperformed by algorithms which can pre-process the graph to attain better performance,[2] as well as memory-bounded approaches; however, A* is still the best solution in many cases.[3]\nPeter Hart, Nils Nilsson and Bertram Raphael of Stanford Research Institute (now SRI International) first published the algorithm in 1968.[4] It can be seen as an extension of Dijkstra's algorithm. A* achieves better performance by using heuristics to guide its search.\n"
+  },
+  {
+    "title": "Euclidean algorithm",
+    "url": "https://en.wikipedia.org/wiki/Euclidean_algorithm",
+    "page_details": "119 KB (14,399 words) - 09:39, 15 December 2021",
+    "paragraph": "In mathematics, the Euclidean algorithm,[note 1] or Euclid's algorithm, is an efficient method for computing the greatest common divisor (GCD) of two integers (numbers), the largest number that divides them both without a remainder. It is named after the ancient Greek mathematician Euclid, who first described it in his Elements (c. 300 BC).\nIt is an example of an algorithm, a step-by-step procedure for performing a calculation according to well-defined rules,\nand is one of the oldest algorithms in common use. It can be used to reduce fractions to their simplest form, and is a part of many other number-theoretic and cryptographic calculations.\nThe Euclidean algorithm is based on the principle that the greatest common divisor of two numbers does not change if the larger number is replaced by its difference with the smaller number.  For example, 21 is the GCD of 252 and 105 (as 252\u00a0=\u00a021\u00a0\u00d7\u00a012 and 105\u00a0=\u00a021\u00a0\u00d7\u00a05), and the same number 21 is also the GCD of 105 and  252\u00a0\u2212\u00a0105\u00a0=\u00a0147. Since this replacement reduces the larger of the two numbers, repeating this process gives successively smaller pairs of numbers until the two numbers become equal.  When that occurs, they are the GCD of the original two numbers.  By reversing the steps or using the extended Euclidean algorithm, the GCD can be expressed as a linear combination of the two original numbers, that is the sum of the two numbers, each multiplied by an integer (for example, 21 = 5 \u00d7 105 + (\u22122) \u00d7 252). The fact that the GCD can always be expressed in this way is known as B\u00e9zout's identity.\n"
+  },
+  {
+    "title": "Quantum algorithm",
+    "url": "https://en.wikipedia.org/wiki/Quantum_algorithm",
+    "page_details": "37 KB (4,323 words) - 14:59, 30 January 2022",
+    "paragraph": "\n\nIn quantum computing, a quantum algorithm is an algorithm which runs on a realistic model of quantum computation, the most commonly used model being the quantum circuit model of computation.[1][2] A classical (or non-quantum) algorithm is a finite sequence of instructions, or a step-by-step procedure for solving a problem, where each step or instruction can be performed on a classical computer. Similarly, a quantum algorithm is a step-by-step procedure, where each of the steps can be performed on a quantum computer. Although all classical algorithms can also be performed on a quantum computer,[3]:\u200a126\u200a  the term quantum algorithm is usually used for those algorithms which seem inherently quantum, or use some essential feature of quantum computation such as quantum superposition or quantum entanglement.\nProblems which are undecidable using classical computers remain undecidable using quantum computers.[4]:\u200a127\u200a What makes quantum algorithms interesting is that they might be able to solve some problems faster than classical algorithms because the quantum superposition and quantum entanglement that quantum algorithms exploit probably cannot be efficiently simulated on classical computers (see Quantum supremacy).\n"
+  },
+  {
+    "title": "Prim's algorithm",
+    "url": "https://en.wikipedia.org/wiki/Prim%27s_algorithm",
+    "page_details": "18 KB (2,169 words) - 16:43, 28 January 2022",
+    "paragraph": "In computer science, Prim's algorithm (also known as Jarn\u00edk's algorithm) is a greedy algorithm that finds a minimum spanning tree for a weighted undirected graph. This means it finds a subset of the edges that forms a tree that includes every vertex, where the total weight of all the edges in the tree is minimized. The algorithm operates by building this tree one vertex at a time, from an arbitrary starting vertex, at each step adding the cheapest possible connection from the tree to another vertex.\nThe algorithm was developed in 1930 by Czech mathematician Vojt\u011bch Jarn\u00edk[1] and later rediscovered and republished by computer scientists Robert C. Prim in 1957[2] and Edsger W. Dijkstra in 1959.[3] Therefore, it is also sometimes called the Jarn\u00edk's algorithm,[4] Prim\u2013Jarn\u00edk algorithm,[5] Prim\u2013Dijkstra algorithm[6]\nor the DJP algorithm.[7]\n"
+  },
+  {
+    "title": "Floyd\u2013Warshall algorithm",
+    "url": "https://en.wikipedia.org/wiki/Floyd%E2%80%93Warshall_algorithm",
+    "page_details": "22 KB (2,880 words) - 08:37, 27 January 2022",
+    "paragraph": "In computer science, the Floyd\u2013Warshall algorithm (also known as Floyd's algorithm, the Roy\u2013Warshall algorithm, the Roy\u2013Floyd algorithm, or the WFI algorithm) is an algorithm for finding shortest paths in a directed weighted graph with positive or negative edge weights (but with no negative cycles).[1][2] A single execution of the algorithm will find the lengths (summed weights) of shortest paths between all pairs of vertices. Although it does not return details of the paths themselves, it is possible to reconstruct the paths with simple modifications to the algorithm. Versions of the algorithm can also be used for finding the transitive closure of a relation \n  \n    \n      \n        R\n      \n    \n    {\\displaystyle R}\n  \n, or (in connection with the Schulze voting system) widest paths between all pairs of vertices in a weighted graph.\nThe Floyd\u2013Warshall algorithm is an example of dynamic programming, and was published in its currently recognized form by Robert Floyd in 1962.[3]  However, it is essentially the same as algorithms previously published by Bernard Roy in 1959[4] and also by Stephen Warshall in 1962[5] for finding the transitive closure of a graph,[6] and is closely related to Kleene's algorithm (published in 1956) for converting a deterministic finite automaton into a regular expression.[7] The modern formulation of the algorithm as three nested for-loops was first described by Peter Ingerman, also in 1962.[8]\n"
+  },
+  {
+    "title": "Algorithmic",
+    "url": "https://en.wikipedia.org/wiki/Algorithmic",
+    "page_details": "1 KB (162 words) - 20:27, 17 April 2018",
+    "paragraph": "Algorithmic may refer to:\n"
+  },
+  {
+    "title": "Online algorithm",
+    "url": "https://en.wikipedia.org/wiki/Online_algorithm",
+    "page_details": "5 KB (693 words) - 14:33, 26 January 2022",
+    "paragraph": "In computer science, an online algorithm[1] is one that can process its input piece-by-piece in a serial fashion, i.e., in the order that the input is fed to the algorithm, without having the entire input available from the start.\nIn contrast, an offline algorithm is given the whole problem data from the beginning and is required to output an answer which solves the problem at hand. In operations research, the area in which online algorithms are developed is called online optimization.\n"
+  },
+  {
+    "title": "List of algorithms",
+    "url": "https://en.wikipedia.org/wiki/List_of_algorithms",
+    "page_details": "69 KB (7,571 words) - 18:16, 2 February 2022",
+    "paragraph": "The following is a list of algorithms along with one-line descriptions for each.\n\n"
+  },
+  {
+    "title": "Time complexity",
+    "url": "https://en.wikipedia.org/wiki/Time_complexity",
+    "page_details": "44 KB (5,185 words) - 04:13, 19 January 2022",
+    "paragraph": "In computer science, the time complexity is the computational complexity that describes the amount of computer time it takes to run an algorithm. Time complexity is commonly estimated by counting the number of elementary operations performed by the algorithm, supposing that each elementary operation takes a fixed amount of time to perform. Thus, the amount of time taken and the number of elementary operations performed by the algorithm are taken to be related by a constant factor.\nSince an algorithm's running time may vary among different inputs of the same size, one commonly considers the worst-case time complexity, which is the maximum amount of time required for inputs of a given size. Less common, and usually specified explicitly, is the average-case complexity, which is the average of the time taken on inputs of a given size (this makes sense because there are only a finite number of possible inputs of a given size). In both cases, the time complexity is generally expressed as a function of the size of the input.[1]:\u200a226\u200a Since this function is generally difficult to compute exactly, and the running time for small inputs is usually not consequential, one commonly focuses on the behavior of the complexity when the input size increases\u2014that is, the asymptotic behavior of the complexity. Therefore, the time complexity is commonly expressed using big O notation, typically \n  \n    \n      \n        O\n        (\n        n\n        )\n      \n    \n    {\\displaystyle O(n)}\n  \n, \n  \n    \n      \n        O\n        (\n        n\n        log\n        \u2061\n        n\n        )\n      \n    \n    {\\displaystyle O(n\\log n)}\n  \n, \n  \n    \n      \n        O\n        (\n        \n          n\n          \n            \u03b1\n          \n        \n        )\n      \n    \n    {\\displaystyle O(n^{\\alpha })}\n  \n, \n  \n    \n      \n        O\n        (\n        \n          2\n          \n            n\n          \n        \n        )\n      \n    \n    {\\displaystyle O(2^{n})}\n  \n, etc., where n is the size in units of bits needed to represent the input.\n"
+  },
+  {
+    "title": "Nondeterministic algorithm",
+    "url": "https://en.wikipedia.org/wiki/Nondeterministic_algorithm",
+    "page_details": "5 KB (557 words) - 16:32, 30 January 2022",
+    "paragraph": "In computer programming, a nondeterministic algorithm is an algorithm that, even for the same input, can exhibit different behaviors on different runs, as opposed to a deterministic algorithm. There are several ways an algorithm may behave differently from run to run. A concurrent algorithm can perform differently on different runs due to a race condition. A probabilistic algorithm's behaviors depends on a random number generator. An algorithm that solves a problem in nondeterministic polynomial time can run in polynomial time or exponential time depending on the choices it makes during execution. The nondeterministic algorithms are often used to find an approximation to a solution, when the exact solution would be too costly to obtain using a deterministic one.\nThe notion was introduced by Robert W. Floyd in 1967.[1]\n"
+  },
+  {
+    "title": "In-place algorithm",
+    "url": "https://en.wikipedia.org/wiki/In-place_algorithm",
+    "page_details": "8 KB (1,182 words) - 04:52, 13 January 2022",
+    "paragraph": "In computer science, an in-place algorithm is an algorithm which transforms input using no auxiliary data structure. However, a small amount of extra storage space is allowed for auxiliary variables. The input is usually overwritten by the output as the algorithm executes. An in-place algorithm updates its input sequence only through replacement or swapping of elements. An algorithm which is not in-place is sometimes called not-in-place or out-of-place.\nIn-place can have slightly different meanings. In its strictest form, the algorithm can only have a constant amount of extra space, counting everything including function calls and pointers. However, this form is very limited as simply having an index to a length n array requires O(log n) bits. More broadly, in-place means that the algorithm does not use extra space for manipulating the input but may require a small though nonconstant extra space for its operation. Usually, this space is O(log n), though sometimes anything in O(n) is allowed. Note that space complexity also has varied choices in whether or not to count the index lengths as part of the space used. Often, the space complexity is given in terms of the number of indices or pointers needed, ignoring their length. In this article, we refer to total space complexity (DSPACE), counting pointer lengths. Therefore, the space requirements here have an extra log n factor compared to an analysis that ignores the length of indices and pointers.  \n"
+  },
+  {
+    "title": "Strassen algorithm",
+    "url": "https://en.wikipedia.org/wiki/Strassen_algorithm",
+    "page_details": "22 KB (3,115 words) - 09:40, 11 October 2021",
+    "paragraph": "In linear algebra, the Strassen algorithm, named after Volker Strassen, is an algorithm for matrix multiplication. It is faster than the standard matrix multiplication algorithm for large matrices, with a better asymptotic complexity, although the naive algorithm is often better for smaller matrices. The Strassen algorithm is slower than the fastest known algorithms for extremely large matrices, but such algorithms are not useful in practice, as they are much slower for matrices of practical size. \nStrassen's algorithm works for any ring, such as plus/multiply, but not all semirings, such as min-plus or boolean algebra, where the naive algorithm still works, and so called combinatorial matrix multiplication.\n"
+  },
+  {
+    "title": "DPLL algorithm",
+    "url": "https://en.wikipedia.org/wiki/DPLL_algorithm",
+    "page_details": "14 KB (1,682 words) - 09:36, 25 November 2021",
+    "paragraph": "In logic and computer science, the Davis\u2013Putnam\u2013Logemann\u2013Loveland (DPLL) algorithm is a complete, backtracking-based search algorithm for deciding the satisfiability of propositional logic formulae in conjunctive normal form, i.e. for solving the CNF-SAT problem.\nIt was introduced in 1961 by Martin Davis, George Logemann and Donald W. Loveland and is a refinement of the earlier Davis\u2013Putnam algorithm, which is a resolution-based procedure developed by Davis and Hilary Putnam in 1960. Especially in older publications, the Davis\u2013Logemann\u2013Loveland algorithm is often referred to as the \"Davis\u2013Putnam method\" or the \"DP algorithm\". Other common names that maintain the distinction are DLL and DPLL.\n"
+  },
+  {
+    "title": "Greedy algorithm",
+    "url": "https://en.wikipedia.org/wiki/Greedy_algorithm",
+    "page_details": "15 KB (1,692 words) - 16:44, 29 January 2022",
+    "paragraph": "A greedy algorithm is any algorithm that follows the problem-solving heuristic of making the locally optimal choice at each stage.[1] In many problems, a greedy strategy does not produce an optimal solution, but a greedy heuristic can yield locally optimal solutions that approximate a globally optimal solution in a reasonable amount of time.\nFor example, a greedy strategy for the travelling salesman problem (which is of high computational complexity) is the following heuristic: \"At each step of the journey, visit the nearest unvisited city.\" This heuristic does not intend to find the best solution, but it terminates in a reasonable number of steps; finding an optimal solution to such a complex problem typically requires unreasonably many steps. In mathematical optimization, greedy algorithms optimally solve combinatorial problems having the properties of matroids and give constant-factor approximations to optimization problems with the submodular structure.\n"
+  },
+  {
+    "title": "Rete algorithm",
+    "url": "https://en.wikipedia.org/wiki/Rete_algorithm",
+    "page_details": "35 KB (5,194 words) - 15:58, 10 January 2022",
+    "paragraph": "The Rete algorithm (/\u02c8ri\u02d0ti\u02d0/ REE-tee, /\u02c8re\u026ati\u02d0/ RAY-tee, rarely /\u02c8ri\u02d0t/ REET, /r\u025b\u02c8te\u026a/ reh-TAY) is a pattern matching algorithm for implementing rule-based systems. The algorithm was developed to efficiently apply many rules or patterns to many objects, or facts, in a knowledge base. It is used to determine which of the system's rules should fire based on its data store, its facts. The Rete algorithm was designed by Charles L. Forgy of Carnegie Mellon University, first published in a working paper in 1974, and later elaborated in his 1979 Ph.D. thesis and a 1982 paper.[1]\nA naive implementation of an expert system might check each rule against known facts in a knowledge base, firing that rule if necessary, then moving on to the next rule (and looping back to the first rule when finished).  For even moderate sized rules and facts knowledge-bases, this naive approach performs far too slowly.   The Rete algorithm provides the basis for a more efficient implementation.  A Rete-based expert system builds a network of nodes, where each node (except the root) corresponds to a pattern occurring in the left-hand-side (the condition part) of a rule.  The path from the root node to a leaf node defines a complete rule left-hand-side.  Each node has a memory of facts which satisfy that pattern. This structure is essentially a generalized trie.   As new facts are asserted or modified, they propagate along the network, causing nodes to be annotated when that fact matches that pattern.  When a fact or combination of facts causes all of the patterns for a given rule to be satisfied, a leaf node is reached and the corresponding rule is triggered.\n"
+  },
+  {
+    "title": "Genetic algorithm",
+    "url": "https://en.wikipedia.org/wiki/Genetic_algorithm",
+    "page_details": "63 KB (7,665 words) - 18:05, 30 January 2022",
+    "paragraph": "In computer science and operations research, a genetic algorithm (GA) is a metaheuristic inspired by the process of natural selection that belongs to the larger class of evolutionary algorithms (EA). Genetic algorithms are commonly used to generate high-quality solutions to optimization and search problems by relying on biologically inspired operators such as mutation, crossover and selection.[1] Some examples of GA applications include optimizing decision trees for better performance, automatically solve sudoku puzzles,[2] hyperparameter optimization, etc.\n"
+  },
+  {
+    "title": "Algorithm (disambiguation)",
+    "url": "https://en.wikipedia.org/wiki/Algorithm_(disambiguation)",
+    "page_details": "1 KB (122 words) - 16:59, 27 December 2021",
+    "paragraph": "An algorithm is an unambiguous method of solving a specific problem.\nAlgorithm also may refer to:\n"
+  },
+  {
+    "title": "Secure Hash Algorithms",
+    "url": "https://en.wikipedia.org/wiki/Secure_Hash_Algorithms",
+    "page_details": "3 KB (455 words) - 09:05, 20 November 2021",
+    "paragraph": "The Secure Hash Algorithms are a family of cryptographic hash functions published by the National Institute of Standards and Technology (NIST) as a U.S. Federal Information Processing Standard (FIPS), including:\nThe corresponding standards are FIPS PUB 180 (original SHA), FIPS PUB 180-1 (SHA-1), FIPS PUB 180-2 (SHA-1, SHA-256, SHA-384, and SHA-512). NIST has updated Draft FIPS Publication 202, SHA-3 Standard separate from the Secure Hash Standard (SHS).\n"
+  },
+  {
+    "title": "Algorithmics",
+    "url": "https://en.wikipedia.org/wiki/Algorithmics",
+    "page_details": "1 KB (159 words) - 21:32, 6 April 2021",
+    "paragraph": "Algorithmics is the systematic study of the design and analysis of algorithms.[1] It is fundamental and one of the oldest fields of computer science. It includes algorithm design, the art of building a procedure which can solve efficiently a specific problem or a class of problem, algorithmic complexity theory, the study of estimating the hardness of problems by studying the properties of the algorithm that solves them, or algorithm analysis, the science of studying the properties of a problem, such as quantifying resources in time and memory space needed by this algorithm to solve this problem.\nThe term algorithmics is rarely used in the English-speaking world, where it is synonymous with algorithms and data structures. The term gained wider popularity after the publication of the book Algorithmics: The Spirit of Computing by David Harel.\n"
+  },
+  {
+    "title": "Multiplication algorithm",
+    "url": "https://en.wikipedia.org/wiki/Multiplication_algorithm",
+    "page_details": "42 KB (5,492 words) - 16:54, 10 January 2022",
+    "paragraph": "\nA multiplication algorithm is an algorithm (or method) to multiply two numbers. Depending on the size of the numbers, different algorithms are used. Efficient multiplication algorithms have existed since the advent of the decimal system.\nThe grid method (or box method) is an introductory method for multiple-digit multiplication that is often taught to pupils at primary school or elementary school.  It has been a standard part of the national primary school mathematics curriculum in England and Wales since the late 1990s.[1]\n"
+  }
+]
